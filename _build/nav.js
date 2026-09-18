@@ -12,7 +12,6 @@ const SITE = {
   domain: "https://cocinaideal.vercel.app",
   locale: "es_ES",
   lang: "es",
-  email: "hola@cocinaideal.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
   // PLACEHOLDER: todavía no existe el Store ID real de Amazon Afiliados para
   // este sitio. Sustituir por el tag real en cuanto se cree en el panel de
   // afiliados (afiliados.amazon.es → "Tus páginas web o apps"). Ver PENDIENTE.md.
