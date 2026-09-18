@@ -9,6 +9,7 @@
 const GUIDES = [
   {
     slug: "robots-de-cocina-multifuncion",
+    img: "/assets/img/guias/robots-de-cocina-multifuncion.jpg",
     title: "Cómo elegir un robot de cocina multifunción",
     dek: "Potencia, funciones que se usan de verdad y capacidad del bol: los criterios para no pagar de más por un robot que acabará en un armario.",
     updated: "2026-09-17",
@@ -83,6 +84,7 @@ const GUIDES = [
   },
   {
     slug: "freidoras-de-aire",
+    img: "/assets/img/guias/freidoras-de-aire.jpg",
     title: "Cómo elegir una freidora de aire",
     dek: "Capacidad, tipo de cesto y potencia real: lo que de verdad cambia entre una freidora de aire barata y una de gama alta.",
     updated: "2026-09-17",
@@ -158,6 +160,7 @@ const GUIDES = [
   },
   {
     slug: "batidoras-y-licuadoras",
+    img: "/assets/img/guias/batidoras-y-licuadoras.jpg",
     title: "Cómo elegir una batidora de vaso o licuadora",
     dek: "Potencia, cuchillas y tipo de vaso: los criterios para elegir entre una batidora de vaso, una mini licuadora portátil o una de gama alta.",
     updated: "2026-09-16",
@@ -233,6 +236,7 @@ const GUIDES = [
   },
   {
     slug: "cafeteras",
+    img: "/assets/img/guias/cafeteras.jpg",
     title: "Cómo elegir una cafetera",
     dek: "Cápsulas, goteo o espresso manual: qué tipo de cafetera se adapta a cómo tomas café realmente, y qué mirar dentro de cada tipo.",
     updated: "2026-09-16",
@@ -308,6 +312,7 @@ const GUIDES = [
   },
   {
     slug: "basculas-de-cocina",
+    img: "/assets/img/guias/basculas-de-cocina.jpg",
     title: "Cómo elegir una báscula de cocina",
     dek: "Precisión, capacidad máxima y tamaño de plataforma: lo que de verdad diferencia una báscula de cocina barata de una que dura años.",
     updated: "2026-09-16",
@@ -383,6 +388,7 @@ const GUIDES = [
   },
   {
     slug: "organizadores-de-cocina",
+    img: "/assets/img/guias/organizadores-de-cocina.jpg",
     title: "Cómo elegir organizadores y almacenaje para la cocina",
     dek: "Especieros, organizadores de armario y de fregadero: cómo aprovechar mejor el espacio sin comprar accesorios que luego no encajan.",
     updated: "2026-09-15",
@@ -458,6 +464,7 @@ const GUIDES = [
   },
   {
     slug: "sartenes-antiadherentes",
+    img: "/assets/img/guias/sartenes-antiadherentes.jpg",
     title: "Cómo elegir sartenes y ollas antiadherentes",
     dek: "Materiales sin PFOA/PFAS, aptas para inducción y grosor del fondo: los criterios para que el antiadherente dure más de una temporada.",
     updated: "2026-09-15",
@@ -533,6 +540,7 @@ const GUIDES = [
   },
   {
     slug: "tostadoras-y-sandwicheras",
+    img: "/assets/img/guias/tostadoras-y-sandwicheras.jpg",
     title: "Cómo elegir una tostadora o sandwichera",
     dek: "Ranuras, niveles de tostado y tipo de placas: los criterios para elegir entre una tostadora clásica y una sandwichera o grill de placas.",
     updated: "2026-09-15",
@@ -608,6 +616,7 @@ const GUIDES = [
   },
   {
     slug: "recipientes-hermeticos",
+    img: "/assets/img/guias/recipientes-hermeticos.jpg",
     title: "Cómo elegir recipientes herméticos de cocina",
     dek: "Materiales seguros, sistema de cierre y aptitud para congelador o microondas: lo que hace que un set de tarros dure años sin mancharse ni oler.",
     updated: "2026-09-14",
@@ -683,6 +692,7 @@ const GUIDES = [
   },
   {
     slug: "cuchillos-de-cocina",
+    img: "/assets/img/guias/cuchillos-de-cocina.jpg",
     title: "Cómo elegir cuchillos de cocina",
     dek: "Acero, dureza y tipo de filo: los criterios para elegir un set de cuchillos que corte bien durante años, no solo el primer mes.",
     updated: "2026-09-14",
@@ -764,6 +774,7 @@ const GUIDES = [
 const ARTICLES = [
   {
     slug: "como-organizar-una-cocina-pequena",
+    img: "/assets/img/blog/como-organizar-una-cocina-pequena.jpg",
     title: "Cómo organizar una cocina pequeña sin hacer obra",
     dek: "Aprovechar la altura, los huecos muertos y el interior de los armarios antes de pensar en tirar nada.",
     updated: "2026-09-13",
@@ -777,6 +788,7 @@ const ARTICLES = [
   },
   {
     slug: "errores-comunes-al-elegir-un-robot-de-cocina",
+    img: "/assets/img/blog/errores-comunes-al-elegir-un-robot-de-cocina.jpg",
     title: "Errores comunes al elegir un robot de cocina",
     dek: "De comprar más funciones de las que vas a usar a no comprobar la disponibilidad de repuestos: los fallos más habituales antes de decidir.",
     updated: "2026-09-13",
@@ -791,6 +803,7 @@ const ARTICLES = [
   },
   {
     slug: "que-bateria-de-cocina-necesitas-realmente",
+    img: "/assets/img/blog/que-bateria-de-cocina-necesitas-realmente.jpg",
     title: "Qué batería de cocina necesitas realmente (y qué puedes dejar fuera)",
     dek: "Sartenes, ollas y cazuelas: cuántas piezas cubren de verdad el uso diario sin acumular utensilios que no se usan.",
     updated: "2026-09-12",
@@ -804,6 +817,7 @@ const ARTICLES = [
   },
   {
     slug: "guia-rapida-para-sustituir-plastico-en-la-cocina",
+    img: "/assets/img/blog/guia-rapida-para-sustituir-plastico-en-la-cocina.jpg",
     title: "Guía rápida para reducir el plástico de un solo uso en la cocina",
     dek: "Recipientes reutilizables, tapas de silicona y otros cambios sencillos que se notan en la despensa y en la basura.",
     updated: "2026-09-12",

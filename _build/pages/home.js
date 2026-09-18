@@ -97,7 +97,8 @@ function home() {
 
   <section class="section trust-section">
     <div class="wrap trust-grid">
-      <div>
+      <div class="trust-copy">
+        <img class="trust-img" src="/assets/img/trust-bg.jpg" alt="Cocina moderna y ordenada" loading="lazy" width="640" height="420">
         <h2>¿Por qué esta web?</h2>
         <p>
           Elegir pequeño electrodoméstico para la cocina implica manejar fichas técnicas llenas
