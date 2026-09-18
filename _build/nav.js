@@ -8,14 +8,11 @@ const SITE = {
   claim: "Guías y comparativas para elegir robots de cocina, freidoras y pequeños electrodomésticos sin perder tiempo ni dinero",
   description:
     "Guías de compra y comparativas independientes de robots de cocina, freidoras de aire, batidoras, cafeteras y demás pequeño electrodoméstico para cocinar mejor sin gastar de más.",
-  // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://cocinaideal.vercel.app",
+  domain: "https://cocina-ideal-ten.vercel.app",
   locale: "es_ES",
   lang: "es",
-  // PLACEHOLDER: todavía no existe el Store ID real de Amazon Afiliados para
-  // este sitio. Sustituir por el tag real en cuanto se cree en el panel de
-  // afiliados (afiliados.amazon.es → "Tus páginas web o apps"). Ver PENDIENTE.md.
-  amazonTag: "cocinaideal0a-21",
+  // Store ID real, creado en el panel de afiliados.
+  amazonTag: "cocinaideal04-21",
   amazonDisclaimer:
     "Como Afiliado de Amazon, CocinaIdeal obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.",
   social: {

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cocinaideal.vercel.app/sitemap.xml
+Sitemap: https://cocina-ideal-ten.vercel.app/sitemap.xml
