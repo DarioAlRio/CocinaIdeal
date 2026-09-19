@@ -31,6 +31,16 @@ en esta lista: son imágenes propias de Amazon usadas como material de afiliado,
 | errores-comunes-al-elegir-un-robot-de-cocina.jpg | https://www.pexels.com/photo/stand-mixer-on-a-table-6996340/ |
 | que-bateria-de-cocina-necesitas-realmente.jpg | https://www.pexels.com/photo/stainless-steel-cookware-set-with-cutting-board-31110049/ |
 | guia-rapida-para-sustituir-plastico-en-la-cocina.jpg | https://www.pexels.com/photo/refillable-glass-jars-7771981/ |
+| errores-freidora-aire-comida-reseca.jpg | https://www.pexels.com/photo/a-basket-filled-with-fried-chicken-wings-27831789/ |
+| como-mantener-el-filo-de-tus-cuchillos.jpg | https://www.pexels.com/photo/man-sharpening-a-knife-8477062/ (Los Muertos Crew) |
+| como-evitar-que-se-estropee-el-antiadherente.jpg | https://www.pexels.com/photo/fried-egg-on-black-frying-pan-5593702/ |
+| robot-de-cocina-para-quien-compensa.jpg | https://www.pexels.com/photo/stainless-steel-food-processor-on-wooden-surface-30238394/ |
+| cafetera-goteo-capsulas-o-superautomatica.jpg | https://www.pexels.com/photo/faceless-barista-pouring-coffee-into-dripper-7125760/ |
+| por-que-una-bascula-de-cocina-mejora-la-reposteria.jpg | https://www.pexels.com/photo/picking-flour-from-bowl-7965895/ (Felicity Tai) |
+| tostadora-o-sandwichera-cual-elegir.jpg | https://www.pexels.com/photo/a-person-showcasing-a-sandwich-maker-11881950/ |
+| como-conservar-alimentos-frescos-mas-tiempo.jpg | https://www.pexels.com/photo/fruits-and-vegetable-in-the-fridge-4443433/ |
+| batidora-de-vaso-o-de-mano-cual-elegir.jpg | https://www.pexels.com/photo/a-person-making-smoothie-using-a-blender-7937015/ |
+| como-guardar-sartenes-sin-rayar-el-antiadherente.jpg | https://www.pexels.com/photo/cozy-kitchen-with-hanging-pots-and-pans-34579937/ |
 
 ## Sección "¿Por qué esta web?" (`assets/img/trust-bg.jpg`)
 
