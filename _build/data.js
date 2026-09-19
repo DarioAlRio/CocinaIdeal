@@ -831,7 +831,7 @@ const ARTICLES = [
   },
   {
     slug: "errores-freidora-aire-comida-reseca",
-    img: "/assets/img/guias/freidoras-de-aire.jpg",
+    img: "/assets/img/blog/errores-freidora-aire-comida-reseca.jpg",
     title: "Freidora de aire: errores comunes que resecan la comida",
     dek: "Sobrecargar el cesto, no remover a mitad de cocción y otros fallos habituales que dejan la comida seca en lugar de crujiente.",
     updated: "2026-09-19",
@@ -845,7 +845,7 @@ const ARTICLES = [
   },
   {
     slug: "como-mantener-el-filo-de-tus-cuchillos",
-    img: "/assets/img/guias/cuchillos-de-cocina.jpg",
+    img: "/assets/img/blog/como-mantener-el-filo-de-tus-cuchillos.jpg",
     title: "Cómo mantener el filo de tus cuchillos de cocina en casa",
     dek: "Chaira, tabla de corte adecuada y hábitos de lavado: lo que marca la diferencia entre un cuchillo que sigue cortando bien y uno que se desafila enseguida.",
     updated: "2026-09-19",
@@ -859,7 +859,7 @@ const ARTICLES = [
   },
   {
     slug: "como-evitar-que-se-estropee-el-antiadherente",
-    img: "/assets/img/guias/sartenes-antiadherentes.jpg",
+    img: "/assets/img/blog/como-evitar-que-se-estropee-el-antiadherente.jpg",
     title: "Sartenes antiadherentes: cómo evitar que se estropee el recubrimiento",
     dek: "Utensilios, temperatura y lavado: los hábitos que más acortan la vida de una sartén antiadherente sin que el fabricante tenga la culpa.",
     updated: "2026-09-19",
@@ -873,7 +873,7 @@ const ARTICLES = [
   },
   {
     slug: "robot-de-cocina-para-quien-compensa",
-    img: "/assets/img/guias/robots-de-cocina-multifuncion.jpg",
+    img: "/assets/img/blog/robot-de-cocina-para-quien-compensa.jpg",
     title: "Robot de cocina multifuncion: para quién compensa realmente",
     dek: "No todo el mundo necesita un robot de gama alta con pantalla y WiFi: cómo saber si tu forma de cocinar justifica el gasto.",
     updated: "2026-09-19",
@@ -887,7 +887,7 @@ const ARTICLES = [
   },
   {
     slug: "cafetera-goteo-capsulas-o-superautomatica",
-    img: "/assets/img/guias/cafeteras.jpg",
+    img: "/assets/img/blog/cafetera-goteo-capsulas-o-superautomatica.jpg",
     title: "Cafetera: diferencias entre goteo, cápsulas y superautomática",
     dek: "Antes de comparar marcas o precios, la decisión que más condiciona el resultado es qué tipo de café tomas habitualmente.",
     updated: "2026-09-19",
@@ -901,7 +901,7 @@ const ARTICLES = [
   },
   {
     slug: "por-que-una-bascula-de-cocina-mejora-la-reposteria",
-    img: "/assets/img/guias/basculas-de-cocina.jpg",
+    img: "/assets/img/blog/por-que-una-bascula-de-cocina-mejora-la-reposteria.jpg",
     title: "Por qué una báscula de cocina mejora tanto la repostería",
     dek: "En repostería, medir por volumen (tazas, cucharadas) introduce un margen de error que pesar en gramos elimina casi por completo.",
     updated: "2026-09-19",
@@ -915,7 +915,7 @@ const ARTICLES = [
   },
   {
     slug: "tostadora-o-sandwichera-cual-elegir",
-    img: "/assets/img/guias/tostadoras-y-sandwicheras.jpg",
+    img: "/assets/img/blog/tostadora-o-sandwichera-cual-elegir.jpg",
     title: "Tostadora o sandwichera: cuál elegir según tu desayuno",
     dek: "Parecen electrodomésticos intercambiables, pero cubren desayunos y meriendas distintos: cuál compensa según lo que sueles comer.",
     updated: "2026-09-19",
@@ -929,7 +929,7 @@ const ARTICLES = [
   },
   {
     slug: "como-conservar-alimentos-frescos-mas-tiempo",
-    img: "/assets/img/guias/recipientes-hermeticos.jpg",
+    img: "/assets/img/blog/como-conservar-alimentos-frescos-mas-tiempo.jpg",
     title: "Cómo conservar los alimentos frescos más tiempo en la nevera",
     dek: "El tipo de recipiente y el cierre influyen tanto como la temperatura de la nevera en cuánto dura un alimento antes de estropearse.",
     updated: "2026-09-19",
@@ -943,7 +943,7 @@ const ARTICLES = [
   },
   {
     slug: "batidora-de-vaso-o-de-mano-cual-elegir",
-    img: "/assets/img/guias/batidoras-y-licuadoras.jpg",
+    img: "/assets/img/blog/batidora-de-vaso-o-de-mano-cual-elegir.jpg",
     title: "Batidora de vaso o de mano: cuál elegir según lo que cocines",
     dek: "No son electrodomésticos intercambiables: cada una rinde mejor en tareas distintas, y muchas cocinas acaban necesitando las dos.",
     updated: "2026-09-19",
@@ -957,7 +957,7 @@ const ARTICLES = [
   },
   {
     slug: "como-guardar-sartenes-sin-rayar-el-antiadherente",
-    img: "/assets/img/guias/organizadores-de-cocina.jpg",
+    img: "/assets/img/blog/como-guardar-sartenes-sin-rayar-el-antiadherente.jpg",
     title: "Cómo guardar las sartenes sin rayar el antiadherente",
     dek: "Apilar sartenes directamente unas sobre otras es de las formas más rápidas de estropear el recubrimiento antes de tiempo.",
     updated: "2026-09-19",
