@@ -70,7 +70,6 @@ const GUIDES = [
     ],
     products: [
       { asin: "B0FKNK452R", title: "Cecotec Robot de Cocina Multifunción Mambo Touch con Jarra Habana Pro", note: "Pantalla táctil y báscula integrada; gama alta para quien cocina con recetas guiadas paso a paso.", img: "https://m.media-amazon.com/images/I/814jjx4gO0L._AC_UL320_.jpg", price: "399,00", rating: "4,2★" },
-      { asin: "B0FKT6CZPN", title: "Ufesa TotalChef RK10 Robot Cocina Multifunción, Pantalla Táctil 10\", 30 Funciones, WIFI", note: "El más completo de la selección: WIFI, báscula y pantalla grande, pensado para quien quiere control total desde el móvil.", img: "https://m.media-amazon.com/images/I/61Z3mCCETKL._AC_UL320_.jpg", price: "549,99", rating: "3,4★" },
       { asin: "B015993ZGW", title: "Moulinex Maxichef Advance MK8121, Robot de Cocina con 45 Programas de Cocción", note: "Marca con recorrido largo en España y buena disponibilidad de repuestos a futuro.", img: "https://m.media-amazon.com/images/I/61D-XCIJ78L._AC_UL320_.jpg", price: "129,00", rating: "4,5★" },
       { asin: "B0BTN6S5GQ", title: "Homlee 3 en 1 Robot de Cocina con Picadora de Carne y Batidora, 2000W, 5,5L", note: "Bol grande (5,5L) a buen precio, útil para cocinar en cantidad o congelar por lotes.", img: "https://m.media-amazon.com/images/I/71yDa4Gt+6L._AC_UL320_.jpg", price: "169,99", rating: "4,2★" },
       { asin: "B0DKJLBVYW", title: "Batidora Amasadora 6 en 1, Robot de Cocina 2000W, Antracita", note: "Buen punto medio de potencia y precio para amasar pan sin gama alta.", img: "https://m.media-amazon.com/images/I/71bkxxfWSML._AC_UL320_.jpg", price: "199,99", rating: "4,4★" },
@@ -313,7 +312,6 @@ const GUIDES = [
       { asin: "B0H2FJYDHD", title: "NESCAFÉ Dolce Gusto De'Longhi NEO CAFFÈ, Cafetera de Cápsulas (Pack 3)", note: "Sistema de cápsulas con variedad de bebidas, incluye pack de cápsulas de regalo.", img: "https://m.media-amazon.com/images/I/81v7z1DDq0L._AC_UL320_.jpg", price: "59,00", rating: "4,6★" },
       { asin: "B0763N7WMP", title: "Cecotec Cafetera Express Manual 20 Bares de Presión Power Espresso 20", note: "Espresso manual de entrada de gama con presión alta para el precio.", img: "https://m.media-amazon.com/images/I/71426+uppqL._AC_UL320_.jpg", price: "59,88", rating: "4,1★" },
       { asin: "B0FP2HTVYR", title: "Cecotec Cafetera Superautomática Compacta Cremmaet Cube, 1350W", note: "Superautomática compacta, buena opción si el espacio de encimera es limitado.", img: "https://m.media-amazon.com/images/I/71UAkdsAiwL._AC_UL320_.jpg", price: "179,00", rating: "4,1★" },
-      { asin: "B0FKT23L89", title: "Cecotec Cafetera Express Superautomática Cremmaet Latte Art, 1500W, 19 Bares", note: "Gama alta con función de latte art automática integrada.", img: "https://m.media-amazon.com/images/I/71vlEFGk8NL._AC_UL320_.jpg", price: "249,00", rating: "3,5★" },
       { asin: "B00G5YOVZA", title: "Nespresso De'Longhi Inissia EN80.B, Cafetera de Cápsulas, 19 Bares", note: "Uno de los modelos de cápsulas más vendidos de forma sostenida en el tiempo.", img: "https://m.media-amazon.com/images/I/513I0Zj0uxL._AC_UL320_.jpg", price: "79,00", rating: "4,4★" },
       { asin: "B07MQ23F7Q", title: "Cecotec Cafetera de Goteo Coffee 66 Heat, 950W, Función Recalentar", note: "La más económica de goteo, con función de mantener el café caliente.", img: "https://m.media-amazon.com/images/I/51vSW8bYK1L._AC_UL320_.jpg", price: "27,49", rating: "4,2★" },
       { asin: "B087RP269L", title: "Cecotec Cafetera Express Cafelizzia 790 White, 20 Bares, Modo Auto", note: "Espresso manual con calentamiento rápido y modo automático para varias bebidas.", img: "https://m.media-amazon.com/images/I/51R7XaU+OrL._AC_UL320_.jpg", price: "80,90", rating: "4,1★" },
@@ -915,7 +913,7 @@ const ARTICLES = [
   {
     slug: "robot-de-cocina-para-quien-compensa",
     img: "/assets/img/blog/robot-de-cocina-para-quien-compensa.jpg",
-    title: "Robot de cocina multifuncion: para quién compensa realmente",
+    title: "Robot de cocina multifunción: para quién compensa y cuál comprar (2026)",
     dek: "No todo el mundo necesita un robot de gama alta con pantalla y WiFi: cómo saber si tu forma de cocinar justifica el gasto.",
     updated: "2026-09-19",
     body: [
