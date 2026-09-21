@@ -117,6 +117,54 @@ const ARTICLE_GUIDES = {
   "como-guardar-sartenes-sin-rayar-el-antiadherente": [
     "sartenes-antiadherentes",
     "organizadores-de-cocina"
+  ],
+  "freidora-de-aire-que-capacidad-necesitas": [
+    "freidoras-de-aire"
+  ],
+  "freidora-de-aire-o-horno-cual-compensa": [
+    "freidoras-de-aire",
+    "robots-de-cocina-multifuncion"
+  ],
+  "cafetera-para-una-persona-que-tipo-elegir": [
+    "cafeteras"
+  ],
+  "cafetera-italiana-o-espresso-cual-elegir": [
+    "cafeteras"
+  ],
+  "robot-de-cocina-barato-que-mirar-antes-de-comprar": [
+    "robots-de-cocina-multifuncion"
+  ],
+  "sartenes-para-induccion-como-elegir": [
+    "sartenes-antiadherentes"
+  ],
+  "sarten-sin-ptfe-ni-pfas-que-mirar-al-comprar": [
+    "sartenes-antiadherentes"
+  ],
+  "cuanto-gastar-en-un-juego-de-cuchillos": [
+    "cuchillos-de-cocina"
+  ],
+  "cuchillo-santoku-o-de-chef-cual-elegir": [
+    "cuchillos-de-cocina"
+  ],
+  "bascula-de-cocina-que-precision-necesitas": [
+    "basculas-de-cocina"
+  ],
+  "batidora-de-vaso-para-smoothies-que-potencia-necesitas": [
+    "batidoras-y-licuadoras"
+  ],
+  "tostadora-2-o-4-ranuras-cual-elegir": [
+    "tostadoras-y-sandwicheras"
+  ],
+  "recipientes-de-vidrio-o-plastico-cual-elegir": [
+    "recipientes-hermeticos"
+  ],
+  "botes-hermeticos-despensa-que-necesitas": [
+    "recipientes-hermeticos",
+    "organizadores-de-cocina"
+  ],
+  "que-necesitas-para-equipar-tu-primera-cocina": [
+    "sartenes-antiadherentes",
+    "cuchillos-de-cocina"
   ]
 };
 
