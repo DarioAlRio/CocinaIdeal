@@ -113,15 +113,6 @@ module.exports = {
     "price": "27,69",
     "rating": "4,0★",
     "reviews": 908
-   },
-   {
-    "asin": "B0DSM61LYT",
-    "title": "Tatay Caja Organizadora Baobab Diseño Compacto Asas Integradas",
-    "note": "Top ventas en Amazon.es: 4,7★ con 690 valoraciones. 200+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/71SGUPbNDQL._AC_UL320_.jpg",
-    "price": "4,94",
-    "rating": "4,7★",
-    "reviews": 690
    }
   ],
   "sartenes-antiadherentes": [
