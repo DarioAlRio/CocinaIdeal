@@ -9,7 +9,7 @@
 const GUIDES = [
   {
     slug: "robots-de-cocina-multifuncion",
-    img: "/assets/img/guias/robots-de-cocina-multifuncion.jpg",
+    img: "/assets/img/guias/robots-de-cocina-multifuncion.webp",
     title: "Cómo elegir un robot de cocina multifunción",
     dek: "Potencia, funciones que se usan de verdad y capacidad del bol: los criterios para no pagar de más por un robot que acabará en un armario.",
     updated: "2026-09-17",
@@ -89,7 +89,7 @@ const GUIDES = [
   },
   {
     slug: "freidoras-de-aire",
-    img: "/assets/img/guias/freidoras-de-aire.jpg",
+    img: "/assets/img/guias/freidoras-de-aire.webp",
     title: "Cómo elegir una freidora de aire",
     dek: "Capacidad, tipo de cesto y potencia real: lo que de verdad cambia entre una freidora de aire barata y una de gama alta.",
     updated: "2026-09-17",
@@ -169,7 +169,7 @@ const GUIDES = [
   },
   {
     slug: "batidoras-y-licuadoras",
-    img: "/assets/img/guias/batidoras-y-licuadoras.jpg",
+    img: "/assets/img/guias/batidoras-y-licuadoras.webp",
     title: "Cómo elegir una batidora de vaso o licuadora",
     dek: "Potencia, cuchillas y tipo de vaso: los criterios para elegir entre una batidora de vaso, una mini licuadora portátil o una de gama alta.",
     updated: "2026-09-16",
@@ -249,7 +249,7 @@ const GUIDES = [
   },
   {
     slug: "cafeteras",
-    img: "/assets/img/guias/cafeteras.jpg",
+    img: "/assets/img/guias/cafeteras.webp",
     title: "Cómo elegir una cafetera",
     dek: "Cápsulas, goteo o espresso manual: qué tipo de cafetera se adapta a cómo tomas café realmente, y qué mirar dentro de cada tipo.",
     updated: "2026-09-16",
@@ -329,7 +329,7 @@ const GUIDES = [
   },
   {
     slug: "basculas-de-cocina",
-    img: "/assets/img/guias/basculas-de-cocina.jpg",
+    img: "/assets/img/guias/basculas-de-cocina.webp",
     title: "Cómo elegir una báscula de cocina",
     dek: "Precisión, capacidad máxima y tamaño de plataforma: lo que de verdad diferencia una báscula de cocina barata de una que dura años.",
     updated: "2026-09-16",
@@ -409,7 +409,7 @@ const GUIDES = [
   },
   {
     slug: "organizadores-de-cocina",
-    img: "/assets/img/guias/organizadores-de-cocina.jpg",
+    img: "/assets/img/guias/organizadores-de-cocina.webp",
     title: "Cómo elegir organizadores y almacenaje para la cocina",
     dek: "Especieros, organizadores de armario y de fregadero: cómo aprovechar mejor el espacio sin comprar accesorios que luego no encajan.",
     updated: "2026-09-15",
@@ -489,7 +489,7 @@ const GUIDES = [
   },
   {
     slug: "sartenes-antiadherentes",
-    img: "/assets/img/guias/sartenes-antiadherentes.jpg",
+    img: "/assets/img/guias/sartenes-antiadherentes.webp",
     title: "Cómo elegir sartenes y ollas antiadherentes",
     dek: "Materiales sin PFOA/PFAS, aptas para inducción y grosor del fondo: los criterios para que el antiadherente dure más de una temporada.",
     updated: "2026-09-15",
@@ -569,7 +569,7 @@ const GUIDES = [
   },
   {
     slug: "tostadoras-y-sandwicheras",
-    img: "/assets/img/guias/tostadoras-y-sandwicheras.jpg",
+    img: "/assets/img/guias/tostadoras-y-sandwicheras.webp",
     title: "Cómo elegir una tostadora o sandwichera",
     dek: "Ranuras, niveles de tostado y tipo de placas: los criterios para elegir entre una tostadora clásica y una sandwichera o grill de placas.",
     updated: "2026-09-15",
@@ -649,7 +649,7 @@ const GUIDES = [
   },
   {
     slug: "recipientes-hermeticos",
-    img: "/assets/img/guias/recipientes-hermeticos.jpg",
+    img: "/assets/img/guias/recipientes-hermeticos.webp",
     title: "Cómo elegir recipientes herméticos de cocina",
     dek: "Materiales seguros, sistema de cierre y aptitud para congelador o microondas: lo que hace que un set de tarros dure años sin mancharse ni oler.",
     updated: "2026-09-14",
@@ -729,7 +729,7 @@ const GUIDES = [
   },
   {
     slug: "cuchillos-de-cocina",
-    img: "/assets/img/guias/cuchillos-de-cocina.jpg",
+    img: "/assets/img/guias/cuchillos-de-cocina.webp",
     title: "Cómo elegir cuchillos de cocina",
     dek: "Acero, dureza y tipo de filo: los criterios para elegir un set de cuchillos que corte bien durante años, no solo el primer mes.",
     updated: "2026-09-14",
@@ -815,7 +815,7 @@ const GUIDES = [
 const ARTICLES = [
   {
     slug: "como-organizar-una-cocina-pequena",
-    img: "/assets/img/blog/como-organizar-una-cocina-pequena.jpg",
+    img: "/assets/img/blog/como-organizar-una-cocina-pequena.webp",
     title: "Cómo organizar una cocina pequeña sin hacer obra",
     dek: "Aprovechar la altura, los huecos muertos y el interior de los armarios antes de pensar en tirar nada.",
     updated: "2026-09-13",
@@ -829,7 +829,7 @@ const ARTICLES = [
   },
   {
     slug: "errores-comunes-al-elegir-un-robot-de-cocina",
-    img: "/assets/img/blog/errores-comunes-al-elegir-un-robot-de-cocina.jpg",
+    img: "/assets/img/blog/errores-comunes-al-elegir-un-robot-de-cocina.webp",
     title: "Errores comunes al elegir un robot de cocina",
     dek: "De comprar más funciones de las que vas a usar a no comprobar la disponibilidad de repuestos: los fallos más habituales antes de decidir.",
     updated: "2026-09-13",
@@ -844,7 +844,7 @@ const ARTICLES = [
   },
   {
     slug: "que-bateria-de-cocina-necesitas-realmente",
-    img: "/assets/img/blog/que-bateria-de-cocina-necesitas-realmente.jpg",
+    img: "/assets/img/blog/que-bateria-de-cocina-necesitas-realmente.webp",
     title: "Qué batería de cocina necesitas realmente (y qué puedes dejar fuera)",
     dek: "Sartenes, ollas y cazuelas: cuántas piezas cubren de verdad el uso diario sin acumular utensilios que no se usan.",
     updated: "2026-09-12",
@@ -858,7 +858,7 @@ const ARTICLES = [
   },
   {
     slug: "guia-rapida-para-sustituir-plastico-en-la-cocina",
-    img: "/assets/img/blog/guia-rapida-para-sustituir-plastico-en-la-cocina.jpg",
+    img: "/assets/img/blog/guia-rapida-para-sustituir-plastico-en-la-cocina.webp",
     title: "Guía rápida para reducir el plástico de un solo uso en la cocina",
     dek: "Recipientes reutilizables, tapas de silicona y otros cambios sencillos que se notan en la despensa y en la basura.",
     updated: "2026-09-12",
@@ -872,7 +872,7 @@ const ARTICLES = [
   },
   {
     slug: "errores-freidora-aire-comida-reseca",
-    img: "/assets/img/blog/errores-freidora-aire-comida-reseca.jpg",
+    img: "/assets/img/blog/errores-freidora-aire-comida-reseca.webp",
     title: "Freidora de aire: errores comunes que resecan la comida",
     dek: "Sobrecargar el cesto, no remover a mitad de cocción y otros fallos habituales que dejan la comida seca en lugar de crujiente.",
     updated: "2026-09-19",
@@ -886,7 +886,7 @@ const ARTICLES = [
   },
   {
     slug: "como-mantener-el-filo-de-tus-cuchillos",
-    img: "/assets/img/blog/como-mantener-el-filo-de-tus-cuchillos.jpg",
+    img: "/assets/img/blog/como-mantener-el-filo-de-tus-cuchillos.webp",
     title: "Cómo mantener el filo de tus cuchillos de cocina en casa",
     dek: "Chaira, tabla de corte adecuada y hábitos de lavado: lo que marca la diferencia entre un cuchillo que sigue cortando bien y uno que se desafila enseguida.",
     updated: "2026-09-19",
@@ -900,7 +900,7 @@ const ARTICLES = [
   },
   {
     slug: "como-evitar-que-se-estropee-el-antiadherente",
-    img: "/assets/img/blog/como-evitar-que-se-estropee-el-antiadherente.jpg",
+    img: "/assets/img/blog/como-evitar-que-se-estropee-el-antiadherente.webp",
     title: "Sartenes antiadherentes: cómo evitar que se estropee el recubrimiento",
     dek: "Utensilios, temperatura y lavado: los hábitos que más acortan la vida de una sartén antiadherente sin que el fabricante tenga la culpa.",
     updated: "2026-09-19",
@@ -914,7 +914,7 @@ const ARTICLES = [
   },
   {
     slug: "robot-de-cocina-para-quien-compensa",
-    img: "/assets/img/blog/robot-de-cocina-para-quien-compensa.jpg",
+    img: "/assets/img/blog/robot-de-cocina-para-quien-compensa.webp",
     title: "Robot de cocina multifunción: para quién compensa y cuál comprar (2026)",
     dek: "No todo el mundo necesita un robot de gama alta con pantalla y WiFi: cómo saber si tu forma de cocinar justifica el gasto.",
     updated: "2026-09-19",
@@ -928,7 +928,7 @@ const ARTICLES = [
   },
   {
     slug: "cafetera-goteo-capsulas-o-superautomatica",
-    img: "/assets/img/blog/cafetera-goteo-capsulas-o-superautomatica.jpg",
+    img: "/assets/img/blog/cafetera-goteo-capsulas-o-superautomatica.webp",
     title: "Cafetera: diferencias entre goteo, cápsulas y superautomática",
     dek: "Antes de comparar marcas o precios, la decisión que más condiciona el resultado es qué tipo de café tomas habitualmente.",
     updated: "2026-09-19",
@@ -942,7 +942,7 @@ const ARTICLES = [
   },
   {
     slug: "por-que-una-bascula-de-cocina-mejora-la-reposteria",
-    img: "/assets/img/blog/por-que-una-bascula-de-cocina-mejora-la-reposteria.jpg",
+    img: "/assets/img/blog/por-que-una-bascula-de-cocina-mejora-la-reposteria.webp",
     title: "Por qué una báscula de cocina mejora tanto la repostería",
     dek: "En repostería, medir por volumen (tazas, cucharadas) introduce un margen de error que pesar en gramos elimina casi por completo.",
     updated: "2026-09-19",
@@ -956,7 +956,7 @@ const ARTICLES = [
   },
   {
     slug: "tostadora-o-sandwichera-cual-elegir",
-    img: "/assets/img/blog/tostadora-o-sandwichera-cual-elegir.jpg",
+    img: "/assets/img/blog/tostadora-o-sandwichera-cual-elegir.webp",
     title: "Tostadora o sandwichera: cuál elegir según tu desayuno",
     dek: "Parecen electrodomésticos intercambiables, pero cubren desayunos y meriendas distintos: cuál compensa según lo que sueles comer.",
     updated: "2026-09-19",
@@ -970,7 +970,7 @@ const ARTICLES = [
   },
   {
     slug: "como-conservar-alimentos-frescos-mas-tiempo",
-    img: "/assets/img/blog/como-conservar-alimentos-frescos-mas-tiempo.jpg",
+    img: "/assets/img/blog/como-conservar-alimentos-frescos-mas-tiempo.webp",
     title: "Cómo conservar los alimentos frescos más tiempo en la nevera",
     dek: "El tipo de recipiente y el cierre influyen tanto como la temperatura de la nevera en cuánto dura un alimento antes de estropearse.",
     updated: "2026-09-19",
@@ -984,7 +984,7 @@ const ARTICLES = [
   },
   {
     slug: "batidora-de-vaso-o-de-mano-cual-elegir",
-    img: "/assets/img/blog/batidora-de-vaso-o-de-mano-cual-elegir.jpg",
+    img: "/assets/img/blog/batidora-de-vaso-o-de-mano-cual-elegir.webp",
     title: "Batidora de vaso o de mano: cuál elegir según lo que cocines",
     dek: "No son electrodomésticos intercambiables: cada una rinde mejor en tareas distintas, y muchas cocinas acaban necesitando las dos.",
     updated: "2026-09-19",
@@ -998,7 +998,7 @@ const ARTICLES = [
   },
   {
     slug: "como-guardar-sartenes-sin-rayar-el-antiadherente",
-    img: "/assets/img/blog/como-guardar-sartenes-sin-rayar-el-antiadherente.jpg",
+    img: "/assets/img/blog/como-guardar-sartenes-sin-rayar-el-antiadherente.webp",
     title: "Cómo guardar las sartenes sin rayar el antiadherente",
     dek: "Apilar sartenes directamente unas sobre otras es de las formas más rápidas de estropear el recubrimiento antes de tiempo.",
     updated: "2026-09-19",
@@ -1012,7 +1012,7 @@ const ARTICLES = [
   },
   {
     slug: "freidora-de-aire-que-capacidad-necesitas",
-    img: "/assets/img/blog/freidora-de-aire-que-capacidad-necesitas.jpg",
+    img: "/assets/img/blog/freidora-de-aire-que-capacidad-necesitas.webp",
     title: "Freidora de aire: qué capacidad necesitas en 2026",
     dek: "¿4, 5, 7 o 10 litros? Cómo calcular la capacidad de freidora de aire según cuántos coméis, qué cocináis y cuánto espacio tenéis en la encimera.",
     updated: "2026-09-21",
@@ -1025,7 +1025,7 @@ const ARTICLES = [
   },
   {
     slug: "freidora-de-aire-o-horno-cual-compensa",
-    img: "/assets/img/blog/freidora-de-aire-o-horno-cual-compensa.jpg",
+    img: "/assets/img/blog/freidora-de-aire-o-horno-cual-compensa.webp",
     title: "Freidora de aire o horno: cuál te compensa más",
     dek: "Comparamos freidora de aire y horno en uso diario, capacidad, limpieza y espacio, para decidir cuál necesitas (o si te sirven los dos).",
     updated: "2026-09-21",
@@ -1039,7 +1039,7 @@ const ARTICLES = [
   },
   {
     slug: "cafetera-para-una-persona-que-tipo-elegir",
-    img: "/assets/img/blog/cafetera-para-una-persona-que-tipo-elegir.jpg",
+    img: "/assets/img/blog/cafetera-para-una-persona-que-tipo-elegir.webp",
     title: "Cafetera para una persona: qué tipo elegir en 2026",
     dek: "Cápsulas, goteo, italiana o espresso: qué cafetera compensa si tomas uno o dos cafés al día, según espacio, presupuesto y sabor buscado.",
     updated: "2026-09-21",
@@ -1052,7 +1052,7 @@ const ARTICLES = [
   },
   {
     slug: "cafetera-italiana-o-espresso-cual-elegir",
-    img: "/assets/img/blog/cafetera-italiana-o-espresso-cual-elegir.jpg",
+    img: "/assets/img/blog/cafetera-italiana-o-espresso-cual-elegir.webp",
     title: "Cafetera italiana o espresso: cuál elegir en casa",
     dek: "Moka o cafetera espresso: diferencias de sabor, coste, esfuerzo y espacio para decidir cuál encaja con tu rutina de café en casa.",
     updated: "2026-09-21",
@@ -1066,7 +1066,7 @@ const ARTICLES = [
   },
   {
     slug: "robot-de-cocina-barato-que-mirar-antes-de-comprar",
-    img: "/assets/img/blog/robot-de-cocina-barato-que-mirar-antes-de-comprar.jpg",
+    img: "/assets/img/blog/robot-de-cocina-barato-que-mirar-antes-de-comprar.webp",
     title: "Robot de cocina barato: qué mirar antes de comprar",
     dek: "Cómo acertar con un robot de cocina de gama económica: qué funciones importan, qué recortan los modelos baratos y qué señales evitar antes de pagar.",
     updated: "2026-09-21",
@@ -1079,7 +1079,7 @@ const ARTICLES = [
   },
   {
     slug: "sartenes-para-induccion-como-elegir",
-    img: "/assets/img/blog/sartenes-para-induccion-como-elegir.jpg",
+    img: "/assets/img/blog/sartenes-para-induccion-como-elegir.webp",
     title: "Sartenes para inducción: cómo elegir bien en 2026",
     dek: "Qué mirar en una sartén para inducción: base ferromagnética, grosor, diámetro y antiadherente, para que caliente por igual y dure más.",
     updated: "2026-09-21",
@@ -1093,7 +1093,7 @@ const ARTICLES = [
   },
   {
     slug: "sarten-sin-ptfe-ni-pfas-que-mirar-al-comprar",
-    img: "/assets/img/blog/sarten-sin-ptfe-ni-pfas-que-mirar-al-comprar.jpg",
+    img: "/assets/img/blog/sarten-sin-ptfe-ni-pfas-que-mirar-al-comprar.webp",
     title: "Sartén sin PTFE ni PFAS: qué mirar antes de comprar",
     dek: "Qué significan las etiquetas «sin PFOA», «sin PTFE» o «sin PFAS» en una sartén, cómo leer la ficha y cómo cuidarla para que dure.",
     updated: "2026-09-21",
@@ -1106,7 +1106,7 @@ const ARTICLES = [
   },
   {
     slug: "cuanto-gastar-en-un-juego-de-cuchillos",
-    img: "/assets/img/blog/cuanto-gastar-en-un-juego-de-cuchillos.jpg",
+    img: "/assets/img/blog/cuanto-gastar-en-un-juego-de-cuchillos.webp",
     title: "Cuánto gastar en un juego de cuchillos de cocina",
     dek: "¿Merece la pena pagar más por un juego de cuchillos? Qué obtienes en cada franja de precio y cuánto conviene gastar según tu forma de cocinar.",
     updated: "2026-09-21",
@@ -1120,7 +1120,7 @@ const ARTICLES = [
   },
   {
     slug: "cuchillo-santoku-o-de-chef-cual-elegir",
-    img: "/assets/img/blog/cuchillo-santoku-o-de-chef-cual-elegir.jpg",
+    img: "/assets/img/blog/cuchillo-santoku-o-de-chef-cual-elegir.webp",
     title: "Cuchillo santoku o de chef: cuál elegir en casa",
     dek: "Santoku frente a cuchillo de chef: forma de la hoja, técnica de corte, peso y manejo para decidir cuál encaja con tu forma de cocinar.",
     updated: "2026-09-21",
@@ -1136,7 +1136,7 @@ const ARTICLES = [
   },
   {
     slug: "bascula-de-cocina-que-precision-necesitas",
-    img: "/assets/img/blog/bascula-de-cocina-que-precision-necesitas.jpg",
+    img: "/assets/img/blog/bascula-de-cocina-que-precision-necesitas.webp",
     title: "Báscula de cocina: qué precisión y capacidad necesitas",
     dek: "¿1 g o 0,1 g? ¿5 o 15 kg? Cómo elegir precisión, capacidad y funciones de una báscula de cocina según lo que pesas de verdad.",
     updated: "2026-09-21",
@@ -1149,7 +1149,7 @@ const ARTICLES = [
   },
   {
     slug: "batidora-de-vaso-para-smoothies-que-potencia-necesitas",
-    img: "/assets/img/blog/batidora-de-vaso-para-smoothies-que-potencia-necesitas.jpg",
+    img: "/assets/img/blog/batidora-de-vaso-para-smoothies-que-potencia-necesitas.webp",
     title: "Batidora de vaso para smoothies: qué potencia necesitas",
     dek: "Potencia, capacidad y cuchillas: qué mirar en una batidora de vaso para smoothies, hielo y cremas sin pagar por vatios que no usarás.",
     updated: "2026-09-21",
@@ -1164,7 +1164,7 @@ const ARTICLES = [
   },
   {
     slug: "tostadora-2-o-4-ranuras-cual-elegir",
-    img: "/assets/img/blog/tostadora-2-o-4-ranuras-cual-elegir.jpg",
+    img: "/assets/img/blog/tostadora-2-o-4-ranuras-cual-elegir.webp",
     title: "Tostadora de 2 o 4 ranuras: cuál elegir para tu casa",
     dek: "Dos ranuras o cuatro: cuándo compensa cada tostadora según el número de personas, el espacio en la encimera y el tipo de pan que tuestas.",
     updated: "2026-09-21",
@@ -1178,7 +1178,7 @@ const ARTICLES = [
   },
   {
     slug: "recipientes-de-vidrio-o-plastico-cual-elegir",
-    img: "/assets/img/blog/recipientes-de-vidrio-o-plastico-cual-elegir.jpg",
+    img: "/assets/img/blog/recipientes-de-vidrio-o-plastico-cual-elegir.webp",
     title: "Recipientes de vidrio o plástico: cuál elegir en casa",
     dek: "Vidrio o plástico para guardar comida: peso, durabilidad, microondas, congelador y precio, con criterios claros para decidir por uso.",
     updated: "2026-09-21",
@@ -1191,7 +1191,7 @@ const ARTICLES = [
   },
   {
     slug: "botes-hermeticos-despensa-que-necesitas",
-    img: "/assets/img/blog/botes-hermeticos-despensa-que-necesitas.jpg",
+    img: "/assets/img/blog/botes-hermeticos-despensa-que-necesitas.webp",
     title: "Botes herméticos para la despensa: qué necesitas",
     dek: "Cuántos botes herméticos necesitas, qué tamaños y qué material elegir para ordenar la despensa sin llenarla de piezas que no usarás.",
     updated: "2026-09-21",
@@ -1205,7 +1205,7 @@ const ARTICLES = [
   },
   {
     slug: "que-necesitas-para-equipar-tu-primera-cocina",
-    img: "/assets/img/blog/que-necesitas-para-equipar-tu-primera-cocina.jpg",
+    img: "/assets/img/blog/que-necesitas-para-equipar-tu-primera-cocina.webp",
     title: "Qué necesitas para equipar tu primera cocina",
     dek: "Lista práctica de menaje y pequeños electrodomésticos para amueblar tu primera cocina sin gastar de más: qué comprar primero y qué esperar.",
     updated: "2026-09-21",
