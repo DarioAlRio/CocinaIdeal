@@ -26,6 +26,21 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/aigostar-sandwichera-vs-cecotec-parrilla-electrica-rock-ngrill.html",
+      "destination": "/guias/tostadoras-y-sandwicheras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aigostar-sandwichera-vs-philips-5000-sandwichera-grill-3-en-1.html",
+      "destination": "/guias/tostadoras-y-sandwicheras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/aigostar-sandwichera-vs-tristar-sa-3050-sandwichera-grill.html",
+      "destination": "/guias/tostadoras-y-sandwicheras.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/amazon-basics-bascula-de-cocina-digital-vs-bascula-de-cocina-digital-15kg.html",
       "destination": "/guias/basculas-de-cocina.html",
       "permanent": true
@@ -71,6 +86,21 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/arcos-cuchillo-cocina-acero-inoxidable-vs-arcos-juego-cuchillos-cocina.html",
+      "destination": "/guias/cuchillos-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arcos-cuchillo-cocina-acero-inoxidable-vs-hoshanho-juego-de-cuchillos-de-cocina-5.html",
+      "destination": "/guias/cuchillos-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arcos-cuchillo-cocina-acero-inoxidable-vs-tefal-ice-force-cuchillo-chef-20-cm.html",
+      "destination": "/guias/cuchillos-de-cocina.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/arcos-cuchillo-cocina-acero-inoxidable-vs-wildmok-cuchillo-de-chef-20.html",
       "destination": "/guias/cuchillos-de-cocina.html",
       "permanent": true
@@ -111,6 +141,16 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/basculas-de-cocina-homefashion-vs-balanza.html",
+      "destination": "/mejores/basculas-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/basculas-de-cocina-soehnle-vs-balanza.html",
+      "destination": "/mejores/basculas-de-cocina.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/batidora-amasadora-6-en-1-vs-bosch-robot-de-cocina-mum5.html",
       "destination": "/guias/robots-de-cocina-multifuncion.html",
       "permanent": true
@@ -123,6 +163,16 @@
     {
       "source": "/comparativas/batidora-amasadora-6-en-1-vs-kenwood-multipro-compact.html",
       "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/batidoras-y-licuadoras-cecotec-vs-wmf.html",
+      "destination": "/mejores/batidoras-y-licuadoras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/batidoras-y-licuadoras-ganiza-vs-wmf.html",
+      "destination": "/mejores/batidoras-y-licuadoras.html",
       "permanent": true
     },
     {
@@ -156,6 +206,16 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/cafeteras-cecotec-vs-krups.html",
+      "destination": "/mejores/cafeteras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cafeteras-de-longhi-vs-krups.html",
+      "destination": "/mejores/cafeteras.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/cecotec-batidora-de-vaso-power-black-vs-h-koenig-mini-batidora-de-vaso-570ml-smo.html",
       "destination": "/guias/batidoras-y-licuadoras.html",
       "permanent": true
@@ -186,6 +246,16 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/cecotec-cafetera-de-goteo-con-termo-vs-cecotec-cafetera-de-goteo-coffee-66-heat.html",
+      "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cecotec-cafetera-de-goteo-con-termo-vs-nescafe-dolce-gusto-de-longhi-neo-caffe.html",
+      "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/cecotec-cafetera-de-goteo-con-termo-vs-nespresso-de-longhi-inissia-en80-b.html",
       "destination": "/guias/cafeteras.html",
       "permanent": true
@@ -197,6 +267,11 @@
     },
     {
       "source": "/comparativas/cecotec-cafetera-de-goteo-programable-vs-bialetti-moka-express.html",
+      "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cecotec-cafetera-de-goteo-programable-vs-cecotec-cafetera-de-goteo-con-termo.html",
       "destination": "/guias/cafeteras.html",
       "permanent": true
     },
@@ -236,6 +311,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/comsaf-recipientes-hermeticos-vs-botes-cocina-almacenaje.html",
+      "destination": "/guias/recipientes-hermeticos.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/comsaf-recipientes-hermeticos-vs-gomaihe-juego-de-24-tarros-hermeticos.html",
       "destination": "/guias/recipientes-hermeticos.html",
       "permanent": true
@@ -246,12 +326,27 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/comsaf-recipientes-hermeticos-vs-luminarc-pure-box-active-recipiente.html",
+      "destination": "/guias/recipientes-hermeticos.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/comsaf-recipientes-hermeticos-vs-yashe-24-piezas-recipientes-hermeticos.html",
       "destination": "/guias/recipientes-hermeticos.html",
       "permanent": true
     },
     {
+      "source": "/comparativas/comsaf-recipientes-hermeticos-vs-yashe-recipientes-hermeticos.html",
+      "destination": "/guias/recipientes-hermeticos.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/cosori-freidora-de-aire-10l-dual-blaze-vs-cosori-freidora-de-aire-5.html",
+      "destination": "/guias/freidoras-de-aire.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cosori-freidora-de-aire-10l-dual-blaze-vs-cosori-freidora-de-aire-8.html",
       "destination": "/guias/freidoras-de-aire.html",
       "permanent": true
     },
@@ -281,7 +376,32 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/cuchillos-de-cocina-arcos-vs-d-perlla.html",
+      "destination": "/mejores/cuchillos-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cuchillos-de-cocina-hoshanho-vs-d-perlla.html",
+      "destination": "/mejores/cuchillos-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/diyife-bascula-cocina-digital-15kg-acero-vs-amazon-basics-bascula-de-cocina-digital.html",
+      "destination": "/guias/basculas-de-cocina.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/diyife-bascula-cocina-digital-15kg-acero-vs-bascula-de-cocina-digital-15kg.html",
+      "destination": "/guias/basculas-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/diyife-bascula-cocina-digital-15kg-acero-vs-grifema-ga2002.html",
+      "destination": "/guias/basculas-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/diyife-bascula-cocina-digital-15kg-acero-vs-homebuds-10kg-bascula-cocina-precision-1.html",
       "destination": "/guias/basculas-de-cocina.html",
       "permanent": true
     },
@@ -298,6 +418,11 @@
     {
       "source": "/comparativas/family-pack-3-sartenes-de-aluminio-vs-yashe-sarten-antiadherente-24cm.html",
       "destination": "/guias/sartenes-antiadherentes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/freidoras-de-aire-ninja-vs-cecotec.html",
+      "destination": "/mejores/freidoras-de-aire.html",
       "permanent": true
     },
     {
@@ -426,6 +551,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/kichly-juego-de-ollas-y-sartenes-vs-juego-de-sartenes-antiadherente-10-pieza.html",
+      "destination": "/guias/sartenes-antiadherentes.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/kichly-juego-de-ollas-y-sartenes-vs-kordisen-set-de-3-sartenes-antiadherente.html",
       "destination": "/guias/sartenes-antiadherentes.html",
       "permanent": true
@@ -468,6 +598,11 @@
     {
       "source": "/comparativas/lifewit-organizador-de-cubiertos-vs-songmics-home-especiero-extensible.html",
       "destination": "/guias/organizadores-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/masterpro-rocket-duo-900-vs-cosori-freidora-de-aire-10l-dual-blaze.html",
+      "destination": "/guias/freidoras-de-aire.html",
       "permanent": true
     },
     {
@@ -546,6 +681,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/ninja-foodi-max-vs-batidora-amasadora-6-en-1.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/ninja-foodi-max-vs-bosch-robot-de-cocina-mum5.html",
       "destination": "/guias/robots-de-cocina-multifuncion.html",
       "permanent": true
@@ -556,7 +696,22 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/ninja-foodi-max-vs-cecotec-robot-de-cocina-con-pantalla-tft.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ninja-foodi-max-vs-chef-robot-cocina-olla-programable-5l.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/ninja-foodi-max-vs-kenwood-multipro-compact.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/ninja-foodi-max-vs-moulinex-maxichef-advance-mk8121.html",
       "destination": "/guias/robots-de-cocina-multifuncion.html",
       "permanent": true
     },
@@ -571,7 +726,22 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/oster-classic-batidora-de-vaso-vs-amazon-basics-licuadora-de-cocina.html",
+      "destination": "/guias/batidoras-y-licuadoras.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/oster-classic-batidora-de-vaso-vs-cecotec-batidora-de-vaso-power-black.html",
+      "destination": "/guias/batidoras-y-licuadoras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/oster-classic-batidora-de-vaso-vs-cecotec-batidora-de-vaso-retro-retrotwis.html",
+      "destination": "/guias/batidoras-y-licuadoras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/oster-classic-batidora-de-vaso-vs-ganiza-batidora-de-vaso-portatil-900w.html",
       "destination": "/guias/batidoras-y-licuadoras.html",
       "permanent": true
     },
@@ -611,7 +781,32 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/recipientes-hermeticos-gomaihe-vs-vtopmart.html",
+      "destination": "/mejores/recipientes-hermeticos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/recipientes-hermeticos-yashe-vs-vtopmart.html",
+      "destination": "/mejores/recipientes-hermeticos.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/songmics-especiero-de-3-niveles-vs-amazon-basics-organizador-de-encimera.html",
+      "destination": "/guias/organizadores-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/songmics-especiero-de-3-niveles-vs-ibuyke-especiero-de-2-niveles.html",
+      "destination": "/guias/organizadores-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/songmics-especiero-de-3-niveles-vs-lifewit-organizador-de-cubiertos.html",
+      "destination": "/guias/organizadores-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/songmics-especiero-de-3-niveles-vs-organizador-para-fregadero-de-cocina.html",
       "destination": "/guias/organizadores-de-cocina.html",
       "permanent": true
     },
@@ -691,11 +886,6 @@
       "permanent": true
     },
     {
-      "source": "/mejores/cafeteras-express.html",
-      "destination": "/mejores/cafeteras.html",
-      "permanent": true
-    },
-    {
       "source": "/mejores/cafeteras-menos-de-40-euros.html",
       "destination": "/mejores/cafeteras.html",
       "permanent": true
@@ -716,6 +906,11 @@
       "permanent": true
     },
     {
+      "source": "/mejores/cuchillos-de-cocina-menos-de-20-euros.html",
+      "destination": "/mejores/cuchillos-de-cocina.html",
+      "permanent": true
+    },
+    {
       "source": "/mejores/cuchillos-de-cocina-menos-de-25-euros.html",
       "destination": "/mejores/cuchillos-de-cocina.html",
       "permanent": true
@@ -731,27 +926,12 @@
       "permanent": true
     },
     {
-      "source": "/mejores/freidoras-de-aire-grandes.html",
-      "destination": "/mejores/freidoras-de-aire.html",
-      "permanent": true
-    },
-    {
       "source": "/mejores/freidoras-de-aire-marca-cecotec.html",
       "destination": "/mejores/freidoras-de-aire.html",
       "permanent": true
     },
     {
       "source": "/mejores/freidoras-de-aire-menos-de-100-euros.html",
-      "destination": "/mejores/freidoras-de-aire.html",
-      "permanent": true
-    },
-    {
-      "source": "/mejores/freidoras-de-aire-menos-de-50-euros.html",
-      "destination": "/mejores/freidoras-de-aire.html",
-      "permanent": true
-    },
-    {
-      "source": "/mejores/freidoras-de-aire-menos-de-60-euros.html",
       "destination": "/mejores/freidoras-de-aire.html",
       "permanent": true
     },
@@ -777,6 +957,11 @@
     },
     {
       "source": "/mejores/recipientes-hermeticos-juegos.html",
+      "destination": "/mejores/recipientes-hermeticos.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/recipientes-hermeticos-menos-de-20-euros.html",
       "destination": "/mejores/recipientes-hermeticos.html",
       "permanent": true
     },
@@ -821,7 +1006,7 @@
       "permanent": true
     },
     {
-      "source": "/mejores/tostadoras-y-sandwicheras-grill.html",
+      "source": "/mejores/tostadoras-y-sandwicheras-menos-de-25-euros.html",
       "destination": "/mejores/tostadoras-y-sandwicheras.html",
       "permanent": true
     },
