@@ -1,3 +1,16 @@
+// Etiquetas cortas para los botones de filtro.
+const SHORT_LABELS = {
+  "robots-de-cocina-multifuncion": "Robots de cocina",
+  "freidoras-de-aire": "Freidoras de aire",
+  "batidoras-y-licuadoras": "Batidoras",
+  "cafeteras": "Cafeteras",
+  "basculas-de-cocina": "Básculas",
+  "organizadores-de-cocina": "Organizadores",
+  "sartenes-antiadherentes": "Sartenes",
+  "tostadoras-y-sandwicheras": "Tostadoras",
+  "recipientes-hermeticos": "Táperes",
+  "cuchillos-de-cocina": "Cuchillos"
+};
 "use strict";
 
 const { SITE } = require("../nav");
@@ -11,7 +24,7 @@ function productosIndex() {
   );
 
   const filters = GUIDES.map(
-    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(g.title)} (${g.products.length})</button>`
+    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(SHORT_LABELS[g.slug] || g.title)} (${g.products.length})</button>`
   ).join("\n        ");
 
   const html = `
