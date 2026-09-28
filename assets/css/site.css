@@ -579,3 +579,8 @@ table { border-collapse: collapse; width: 100%; }
 .card.guide-card, .card.article-card { background: transparent; }
 .cta-band { background: #2b2013; }
 .site-footer { border-top: 3px double var(--color-ink); }
+
+/* sticky-footer-gap: la barra fija de producto no tapa el final del pie */
+body:has(.seo-sticky) { padding-bottom: 76px; }
+body:has(.seo-sticky) .seo-sticky-space { display: none; }
+@media (max-width: 640px) { body:has(.seo-sticky) { padding-bottom: 96px; } }
