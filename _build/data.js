@@ -149,6 +149,15 @@ const GUIDES = [
       },
     ],
     products: [
+      {
+        asin: "B0D9S9Y16Y",
+        title: "Philips 3000 Airfryer - Freidora de Aire 6,2L, 16 en 1, Táctil, Negro",
+        note: "La marca que popularizó la freidora de aire, en tamaño de 6,2 litros pensado para cocinar para tres o cuatro.",
+        img: "https://m.media-amazon.com/images/I/516hlh2K8IL._AC_UL320_.jpg",
+        price: "124,99",
+        rating: "4,7★",
+        reviews: 446,
+      },
       { asin: "B0G931B3RP", title: "Ninja Freidora de Aire 6,2L, Cajón Familiar, Antiadherente, Negro", note: "Buen equilibrio de capacidad y precio para familias de 3-4 personas.", img: "https://m.media-amazon.com/images/I/51tPa7Rt4xL._AC_UL320_.jpg", price: "99,99", rating: "4,7★" },
       { asin: "B0GL27XFXV", title: "Ninja CRISPi PRO XL, Freidora de Aire con 2 Recipientes, Dorado Piedra", note: "Dos recipientes independientes para cocinar dos alimentos distintos a la vez; gama alta.", img: "https://m.media-amazon.com/images/I/71XNbEDjSHL._AC_UL320_.jpg", price: "249,00", rating: "4,2★" },
       { asin: "B0F4KKZ7HH", title: "Ninja Freidora de Aire con Compartimento Doble, 7,6L, Gris Metalizado", note: "La de mayor capacidad de la selección, pensada para familias numerosas.", img: "https://m.media-amazon.com/images/I/71ftZsnndCL._AC_UL320_.jpg", price: "140,12", rating: "4,6★" },
@@ -229,6 +238,15 @@ const GUIDES = [
       },
     ],
     products: [
+      {
+        asin: "B0D9VYRDT2",
+        title: "Braun MultiQuick 5 - Minipimer de 1000W Vaso 600ml Blanco",
+        note: "El minipimer de toda la vida con 1000 W: sencillo, sin accesorios que ocupen cajón y con motor de sobra para cremas.",
+        img: "https://m.media-amazon.com/images/I/61Wog40rTPL._AC_UL320_.jpg",
+        price: "32,97",
+        rating: "4,7★",
+        reviews: 860,
+      },
       { asin: "B0F52MVPX1", title: "Ganiza Batidora de Vaso Portátil 900W con 3 Vasos (2x500ml y 1x700ml)", note: "Pack con varios vasos portátiles, útil para toda la familia sin compartir el mismo vaso.", img: "https://m.media-amazon.com/images/I/81B9g0ga2HL._AC_UL320_.jpg", price: "45,99", rating: "4,5★" },
       { asin: "B0G7JF3V25", title: "Cecotec Batidora de Vaso 20000RPM Power Black Titanium 1300 MAX B Pro", note: "Cuchillas de titanio y precio de entrada muy ajustado.", img: "https://m.media-amazon.com/images/I/61EYFWnj8PL._AC_UL320_.jpg", price: "27,90", rating: "4,0★" },
       { asin: "B0D8F87L9W", title: "Sangcon 5 en 1 Batidora de Vaso Combinación, Smoothie Maker y Procesador de Alimentos", note: "Combo multifunción, útil si además quieres picar en pequeñas cantidades.", img: "https://m.media-amazon.com/images/I/71uo7tHuylL._AC_UL320_.jpg", price: "50,99", rating: "4,0★" },
@@ -789,6 +807,15 @@ const GUIDES = [
       },
     ],
     products: [
+      {
+        asin: "B008M5U1C2",
+        title: "Victorinox Fibrox Cuchillo de cocina, cuchillo universal ancho para carne, pescado, verdura y hierbas, 20 cm, hoja recta, afilado, acero inoxidable, negro",
+        note: "El cuchillo de cocinero de las escuelas de hostelería: mango antideslizante y hoja fácil de reafilar en casa.",
+        img: "https://m.media-amazon.com/images/I/31y90hy7fVL._AC_UL320_.jpg",
+        price: "39,00",
+        rating: "4,8★",
+        reviews: 14413,
+      },
       { asin: "B00R3Z49G6", title: "Amazon Basics Juego de Cuchillos de Cocina y Soporte, 14 Piezas, Negro", note: "Set completo con soporte incluido a precio de entrada de gama.", img: "https://m.media-amazon.com/images/I/810IjwSOWZL._AC_UL320_.jpg", price: "23,09", rating: "4,6★" },
       { asin: "B0CL9XHVTY", title: "MasterChef Cuchillos de Cocina, Set de Cuchillo de Chef", note: "Marca reconocida centrada en el cuchillo de chef, el más versátil del día a día.", img: "https://m.media-amazon.com/images/I/51rtrrxEGXL._AC_UL320_.jpg", price: "15,99", rating: "4,4★" },
       { asin: "B07CLYNWQ8", title: "SHAN ZU Juego de Cuchillos de Cocina 3 Piezas, Cuchillo Chef 20cm Profesional", note: "Set reducido con cuchillo chef de tamaño profesional (20cm).", img: "https://m.media-amazon.com/images/I/61KFcmhc8FL._AC_UL320_.jpg", price: "49,99", rating: "4,5★" },

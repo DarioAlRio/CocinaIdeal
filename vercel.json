@@ -11,6 +11,16 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/3-piezas-repuesto-de-sistema-antigoteo-vs-hanoi.html",
+      "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/3-piezas-repuesto-de-sistema-antigoteo-vs-multilaser-multi-home-cafetera-electrica.html",
+      "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/aigostar-sandwichera-vs-amazon-basics-tostadora-4-rebanadas.html",
       "destination": "/guias/tostadoras-y-sandwicheras.html",
       "permanent": true
@@ -106,6 +116,21 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/arcos-cuchillo-de-cocina-acero-inoxidabl-vs-arcos-estuche-de-3-cuchillos-basicos.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arcos-cuchillo-de-cocina-acero-inoxidabl-vs-arcos-latina-cuchillo-para-verduras-acer.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arcos-cuchillo-de-cocina-acero-inoxidabl-vs-karl-hausmann-taco-cuchillos-con-5.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/arcos-cuchillo-de-cocina-forjado-vs-amazon-basics-juego-de-cuchillos.html",
       "destination": "/guias/cuchillos-de-cocina.html",
       "permanent": true
@@ -113,6 +138,11 @@
     {
       "source": "/comparativas/arcos-cuchillo-de-cocina-forjado-vs-wildmok-cuchillo-de-chef-20.html",
       "destination": "/guias/cuchillos-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/arcos-estuche-de-3-cuchillos-basicos-vs-arcos-cuchillo-cocina-acero-inoxidable.html",
+      "destination": "/",
       "permanent": true
     },
     {
@@ -241,6 +271,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/cecotec-batidora-de-vaso-retro-retrotwis-vs-philips-5000-batidora-de-vaso-problend.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/cecotec-cafetera-de-goteo-con-termo-vs-bialetti-moka-express.html",
       "destination": "/guias/cafeteras.html",
       "permanent": true
@@ -267,11 +302,6 @@
     },
     {
       "source": "/comparativas/cecotec-cafetera-de-goteo-programable-vs-bialetti-moka-express.html",
-      "destination": "/guias/cafeteras.html",
-      "permanent": true
-    },
-    {
-      "source": "/comparativas/cecotec-cafetera-de-goteo-programable-vs-cecotec-cafetera-de-goteo-con-termo.html",
       "destination": "/guias/cafeteras.html",
       "permanent": true
     },
@@ -311,6 +341,26 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/cocina-electrica-con-olla-caliente-vs-chef-robot-cocina-olla-programable-5l.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cocina-electrica-con-olla-caliente-vs-create-pressure-cooker-studio-olla.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cocina-electrica-con-olla-caliente-vs-naturamix-robot-de-cocina-multifuncion.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cocina-electrica-con-olla-caliente-vs-topstrong-procesador-de-alimentos.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/comsaf-recipientes-hermeticos-vs-botes-cocina-almacenaje.html",
       "destination": "/guias/recipientes-hermeticos.html",
       "permanent": true
@@ -338,6 +388,11 @@
     {
       "source": "/comparativas/comsaf-recipientes-hermeticos-vs-yashe-recipientes-hermeticos.html",
       "destination": "/guias/recipientes-hermeticos.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/cosori-freidora-de-aire-10l-dual-blaze-vs-cecotec-freidora-sin-aceite-2.html",
+      "destination": "/",
       "permanent": true
     },
     {
@@ -418,6 +473,11 @@
     {
       "source": "/comparativas/family-pack-3-sartenes-de-aluminio-vs-yashe-sarten-antiadherente-24cm.html",
       "destination": "/guias/sartenes-antiadherentes.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fissler-vitaquick-olla-a-presion-de-3-vs-create-pressure-cooker-studio-olla.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
       "permanent": true
     },
     {
@@ -646,6 +706,11 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/multilaser-multi-home-cafetera-electrica-vs-cecotec-cafetera-de-goteo-programable.html",
+      "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/nescafe-dolce-gusto-de-longhi-neo-caffe-vs-bialetti-moka-express.html",
       "destination": "/guias/cafeteras.html",
       "permanent": true
@@ -663,6 +728,11 @@
     {
       "source": "/comparativas/nespresso-de-longhi-inissia-en80-b-vs-bialetti-moka-express.html",
       "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/nilson-life-batidora-de-vaso-nutricional-vs-philips-5000-batidora-de-vaso-problend.html",
+      "destination": "/",
       "permanent": true
     },
     {
@@ -826,6 +896,21 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/taurus-vs-chef-robot-cocina-olla-programable-5l.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taurus-vs-cocina-electrica-con-olla-caliente.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/taurus-vs-fissler-vitaquick-olla-a-presion-de-3.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/wildmok-cuchillo-de-chef-20-vs-amazon-basics-juego-de-cuchillos.html",
       "destination": "/guias/cuchillos-de-cocina.html",
       "permanent": true
@@ -886,6 +971,11 @@
       "permanent": true
     },
     {
+      "source": "/mejores/cafeteras-menos-de-25-euros.html",
+      "destination": "/mejores/cafeteras.html",
+      "permanent": true
+    },
+    {
       "source": "/mejores/cafeteras-menos-de-40-euros.html",
       "destination": "/mejores/cafeteras.html",
       "permanent": true
@@ -898,11 +988,6 @@
     {
       "source": "/mejores/cafeteras-menos-de-75-euros.html",
       "destination": "/mejores/cafeteras.html",
-      "permanent": true
-    },
-    {
-      "source": "/mejores/cuchillos-de-cocina-juegos.html",
-      "destination": "/mejores/cuchillos-de-cocina.html",
       "permanent": true
     },
     {
@@ -976,6 +1061,11 @@
       "permanent": true
     },
     {
+      "source": "/mejores/robots-de-cocina-multifuncion-menos-de-100-euros.html",
+      "destination": "/mejores/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
       "source": "/mejores/robots-de-cocina-multifuncion-menos-de-150-euros.html",
       "destination": "/mejores/robots-de-cocina-multifuncion.html",
       "permanent": true
@@ -987,6 +1077,11 @@
     },
     {
       "source": "/mejores/robots-de-cocina-multifuncion-menos-de-250-euros.html",
+      "destination": "/mejores/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/mejores/robots-de-cocina-multifuncion-menos-de-60-euros.html",
       "destination": "/mejores/robots-de-cocina-multifuncion.html",
       "permanent": true
     },
@@ -1026,8 +1121,28 @@
       "permanent": true
     },
     {
+      "source": "/productos/3-piezas-repuesto-de-sistema-antigoteo-para-cafeteras-antigoteo-para-cafeteras-de-filtro-sistema-antigoteo-para-cafetera-990117900-repuesto-con-val-b0h29b6pgc.html",
+      "destination": "/guias/cafeteras.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/cocina-electrica-con-olla-caliente-olla-electrica-portatil-olla-para-b0gmyg98mz.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/fissler-vitaquick-olla-a-presion-de-3-5-l-y-22-cm-de-diametro-acero-inoxidable-2-niveles-de-coccion-fabricada-en-alemania-induccion-b0csjrb3b6.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
+      "permanent": true
+    },
+    {
       "source": "/productos/tatay-caja-organizadora-baobab-diseno-compacto-asas-integradas-b0dsm61lyt.html",
       "destination": "/guias/organizadores-de-cocina.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/taurus-olla-a-presion-super-rapida-6l-apertura-facil-segura-b09lh5zl1h.html",
+      "destination": "/guias/robots-de-cocina-multifuncion.html",
       "permanent": true
     },
     {
@@ -1052,6 +1167,18 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests"
         }
       ]
     },
