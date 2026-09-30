@@ -666,7 +666,7 @@ module.exports = {
  },
  "articles": [
   {
-   "updated": "2026-09-24",
+   "updated": "2026-10-01",
    "slug": "freidora-de-aire-de-una-o-dos-cestas",
    "guide": "freidoras-de-aire",
    "title": "Freidora de aire de una o dos cestas: ¿cuál te conviene?",
@@ -679,11 +679,19 @@ module.exports = {
     "Permiten hacer el plato principal y la guarnición a distintas temperaturas y terminar a la vez (función sincronizar). Para familias de 4 o más es un cambio real en el día a día.",
     "<h2>Consumo y tamaño</h2>",
     "Las dobles consumen algo más (hasta 2.400 W con las dos cestas funcionando), pero siguen gastando menos que encender el horno.",
+    "<h2>Lo que nadie cuenta de la doble cesta</h2>",
+    "Dos cestas de 4,5 litros no son lo mismo que una de 9. Cada cesta es más estrecha, así que un pollo entero, una lubina o una pizza mediana no caben, y tendrás que trocear. Si sueles cocinar piezas grandes, busca un modelo con divisor extraíble: con el divisor puesto trabajas con dos zonas, y sin él tienes una cesta grande única.",
+    "También cambia la limpieza: son dos cestas, dos rejillas y, a veces, dos bandejas. Con el lavavajillas no es problema; a mano, supone el doble de fregado cada noche.",
+    "<h2>Cómo calcular la capacidad que necesitas</h2>",
+    "Una regla sencilla que funciona bien: alrededor de 1 a 1,5 litros de cesta por persona para raciones de guarnición, y algo más si cocinas la proteína y el acompañamiento a la vez. Para una pareja, 4-5 litros sobran; para cuatro personas que cenan juntas, una doble de 8-10 litros evita hacer dos tandas.",
+    "Piensa también en el espacio: una freidora doble mide fácilmente 40 cm de ancho. Mide el hueco de encimera y deja unos centímetros detrás para que salga el aire caliente, que no debe dar directamente contra la pared ni bajo un mueble alto.",
+    "<h2>Nuestra recomendación según tu caso</h2>",
+    "<ul><li><strong>Vives solo o en pareja:</strong> una cesta de 4-6 litros. Más barata, más rápida y más fácil de limpiar.</li><li><strong>Familia de tres con niños pequeños:</strong> una cesta grande de 6-7 litros suele bastar.</li><li><strong>Cuatro o más, o cocinas cenas completas a diario:</strong> doble cesta con función de sincronizar.</li><li><strong>Cocinas piezas enteras (pollo, pescado):</strong> doble cesta con divisor extraíble o una cesta única amplia.</li></ul>",
     "Compara modelos en el <a href=\"/mejores/freidoras-de-aire.html\">ranking de freidoras de aire 2026</a> o, si buscas algo económico, en <a href=\"/mejores/freidoras-de-aire-baratos.html\">freidoras de aire baratas</a>."
    ]
   },
   {
-   "updated": "2026-09-24",
+   "updated": "2026-10-01",
    "slug": "olla-programable-o-robot-de-cocina-cual-necesitas",
    "guide": "robots-de-cocina-multifuncion",
    "title": "Olla programable o robot de cocina: ¿cuál necesitas?",
@@ -696,6 +704,15 @@ module.exports = {
     "Pica, tritura, amasa, pesa y cocina con recetas guiadas. Hace de todo, pero cuesta entre 250 y 1.300 € y su capacidad suele ser menor.",
     "<h2>¿Cuál elegir?</h2>",
     "Si cocinas guisos y quieres ahorrar tiempo: olla programable. Si quieres cremas, masas y recetas guiadas paso a paso: robot de cocina. Mucha gente empieza por la olla y le basta.",
+    "<h2>El error más habitual al elegir</h2>",
+    "Muchos compradores eligen un robot de cocina pensando en todo lo que podría hacer y terminan usándolo para lo mismo que haría una olla: lentejas, arroces y cremas. Antes de decidir, apunta durante una semana qué cocinas de verdad. Si predominan guisos y legumbres, la olla programable cubre el 90 % de tus usos por una fracción del precio.",
+    "El robot tiene sentido si amasas pan o pizza a menudo, si preparas cremas y salsas emulsionadas o si valoras seguir recetas guiadas con báscula integrada, algo que ayuda mucho a quien está aprendiendo a cocinar.",
+    "<h2>Capacidad real y número de raciones</h2>",
+    "Las ollas programables suelen tener entre 5 y 6 litros útiles, suficiente para cuatro a seis raciones de guiso. Muchos robots de cocina tienen un vaso de 2 a 3 litros, y la capacidad real para cocinar es menor porque no se puede llenar hasta arriba. Para familias numerosas o para cocinar en lote el domingo, la olla gana claramente.",
+    "<h2>Seguridad y mantenimiento</h2>",
+    "En una olla a presión eléctrica, revisa la junta de silicona de la tapa cada pocos meses: es la pieza que se desgasta y la que garantiza que la olla cierre bien. En un robot, las cuchillas y la junta del vaso son los consumibles. Antes de comprar cualquiera de los dos, comprueba que haya recambios fáciles de encontrar para ese modelo concreto.",
+    "<h2>¿Y si ya tienes uno de los dos?</h2>",
+    "Si tienes olla y te falta triturar, una batidora de mano potente resuelve cremas y purés sin gastar en un robot. Si tienes robot y se queda corto de capacidad, una olla programable para los guisos grandes es el complemento lógico.",
     "Tienes ambos tipos ordenados por valoración en el <a href=\"/mejores/robots-de-cocina-multifuncion.html\">ranking de robots de cocina 2026</a>."
    ]
   }

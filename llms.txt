@@ -1,0 +1,34 @@
+# CocinaIdeal
+
+> Guías de compra y comparativas independientes de robots de cocina, freidoras de aire, batidoras, cafeteras y demás pequeño electrodoméstico para cocinar mejor sin gastar de más.
+
+CocinaIdeal publica guías de compra y rankings en español. Los productos se seleccionan entre los más vendidos de Amazon.es y se ordenan por valoración media y número de opiniones de compradores. No se publican precios fijos. Metodología completa: https://cocina-ideal-ten.vercel.app/sobre-nosotros/
+
+## Rankings
+- [Mejores robot de cocina multifunción](https://cocina-ideal-ten.vercel.app/mejores/robots-de-cocina-multifuncion.html): Ranking 2026 de robots de cocina: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores freidora de aire](https://cocina-ideal-ten.vercel.app/mejores/freidoras-de-aire.html): Ranking 2026 de freidoras de aire: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores batidora de vaso o licuadora](https://cocina-ideal-ten.vercel.app/mejores/batidoras-y-licuadoras.html): Ranking 2026 de batidoras de vaso y licuadoras: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores cafetera](https://cocina-ideal-ten.vercel.app/mejores/cafeteras.html): Ranking 2026 de cafeteras: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores báscula de cocina](https://cocina-ideal-ten.vercel.app/mejores/basculas-de-cocina.html): Ranking 2026 de básculas de cocina: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores organizadores y almacenaje para la cocina](https://cocina-ideal-ten.vercel.app/mejores/organizadores-de-cocina.html): Ranking 2026 de organizadores de cocina: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores sartenes y ollas antiadherentes](https://cocina-ideal-ten.vercel.app/mejores/sartenes-antiadherentes.html): Ranking 2026 de sartenes y baterías antiadherentes: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores tostadora o sandwichera](https://cocina-ideal-ten.vercel.app/mejores/tostadoras-y-sandwicheras.html): Ranking 2026 de tostadoras y sandwicheras: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores recipientes herméticos de cocina](https://cocina-ideal-ten.vercel.app/mejores/recipientes-hermeticos.html): Ranking 2026 de recipientes herméticos: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores cuchillos de cocina](https://cocina-ideal-ten.vercel.app/mejores/cuchillos-de-cocina.html): Ranking 2026 de cuchillos de cocina: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+
+## Guías de compra
+- [Cómo elegir un robot de cocina multifunción](https://cocina-ideal-ten.vercel.app/guias/robots-de-cocina-multifuncion.html)
+- [Cómo elegir una freidora de aire](https://cocina-ideal-ten.vercel.app/guias/freidoras-de-aire.html)
+- [Cómo elegir una batidora de vaso o licuadora](https://cocina-ideal-ten.vercel.app/guias/batidoras-y-licuadoras.html)
+- [Cómo elegir una cafetera](https://cocina-ideal-ten.vercel.app/guias/cafeteras.html)
+- [Cómo elegir una báscula de cocina](https://cocina-ideal-ten.vercel.app/guias/basculas-de-cocina.html)
+- [Cómo elegir organizadores y almacenaje para la cocina](https://cocina-ideal-ten.vercel.app/guias/organizadores-de-cocina.html)
+- [Cómo elegir sartenes y ollas antiadherentes](https://cocina-ideal-ten.vercel.app/guias/sartenes-antiadherentes.html)
+- [Cómo elegir una tostadora o sandwichera](https://cocina-ideal-ten.vercel.app/guias/tostadoras-y-sandwicheras.html)
+- [Cómo elegir recipientes herméticos de cocina](https://cocina-ideal-ten.vercel.app/guias/recipientes-hermeticos.html)
+- [Cómo elegir cuchillos de cocina](https://cocina-ideal-ten.vercel.app/guias/cuchillos-de-cocina.html)
+
+## Sobre el sitio
+- [Sobre nosotros y metodología](https://cocina-ideal-ten.vercel.app/sobre-nosotros/)
+- [Contacto](https://cocina-ideal-ten.vercel.app/contacto/)
+- [Política de afiliación](https://cocina-ideal-ten.vercel.app/legal/afiliacion.html)
