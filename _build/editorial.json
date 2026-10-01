@@ -1,194 +1,563 @@
 {
   "B0GMYG98MZ": {
-    "resumen": ["Seamos claros: esto no es un robot de cocina tipo Thermomix, es una olla eléctrica portátil. Calienta, cuece y sirve para hot pot o comidas sencillas en un estudio, una oficina o una residencia de estudiantes.", "Está en la lista por las opiniones de quien la compró para eso; si buscas un robot que pique, amase y cocine a la vez, mira las otras opciones."],
-    "pros": ["Muy práctica donde no hay cocina completa", "Barata y fácil de limpiar", "Ocupa poco"],
-    "contras": ["No pica, no amasa ni tritura: no es un robot de cocina", "Capacidad pensada para una o dos personas", "Control de temperatura básico"],
+    "resumen": [
+      "Seamos claros: esto no es un robot de cocina tipo Thermomix, es una olla eléctrica portátil. Calienta, cuece y sirve para hot pot o comidas sencillas en un estudio, una oficina o una residencia de estudiantes.",
+      "Está en la lista por las opiniones de quien la compró para eso; si buscas un robot que pique, amase y cocine a la vez, mira las otras opciones."
+    ],
+    "pros": [
+      "Muy práctica donde no hay cocina completa",
+      "Barata y fácil de limpiar",
+      "Ocupa poco"
+    ],
+    "contras": [
+      "No pica, no amasa ni tritura: no es un robot de cocina",
+      "Capacidad pensada para una o dos personas",
+      "Control de temperatura básico"
+    ],
     "para": "estudiantes, estudios sin cocina o comidas en la oficina."
   },
   "B0H33NS6RS": {
-    "resumen": ["Un procesador de alimentos de 800 W con recipiente de 2 litros y tres discos de corte. No cocina, pero rebana, ralla, pica y amasa, que es lo que ahorra tiempo en la preparación.", "Es el complemento lógico a una buena olla o una Mambo si no quieres gastar en un robot con calor."],
-    "pros": ["Discos de corte y rallado incluidos", "Amasa masas ligeras", "Compacto para su capacidad"],
-    "contras": ["No cocina", "Recipiente de 2 L justo para familias grandes", "Muchas piezas que lavar"],
+    "resumen": [
+      "Un procesador de alimentos de 800 W con recipiente de 2 litros y tres discos de corte. No cocina, pero rebana, ralla, pica y amasa, que es lo que ahorra tiempo en la preparación.",
+      "Es el complemento lógico a una buena olla o una Mambo si no quieres gastar en un robot con calor."
+    ],
+    "pros": [
+      "Discos de corte y rallado incluidos",
+      "Amasa masas ligeras",
+      "Compacto para su capacidad"
+    ],
+    "contras": [
+      "No cocina",
+      "Recipiente de 2 L justo para familias grandes",
+      "Muchas piezas que lavar"
+    ],
     "para": "quien prepara mucha verdura rallada, masas o picados."
   },
   "B07CJJ4F55": {
-    "resumen": ["Una olla programable de 5 litros y 900 W con temporizador de 24 horas. Es el aparato de 'meter los ingredientes por la mañana y encontrar la cena hecha', más cercano a una olla lenta o una multicooker que a un robot de cocina.", "Para guisos, legumbres y arroces cumple de sobra."],
-    "pros": ["5 litros: cocina para toda la familia", "Programable con 24 h de antelación", "Precio de entrada"],
-    "contras": ["No tritura ni pica", "Recetas limitadas a lo que se hace en olla", "Revisa el recubrimiento de la cubeta con el tiempo"],
+    "resumen": [
+      "Una olla programable de 5 litros y 900 W con temporizador de 24 horas. Es el aparato de 'meter los ingredientes por la mañana y encontrar la cena hecha', más cercano a una olla lenta o una multicooker que a un robot de cocina.",
+      "Para guisos, legumbres y arroces cumple de sobra."
+    ],
+    "pros": [
+      "5 litros: cocina para toda la familia",
+      "Programable con 24 h de antelación",
+      "Precio de entrada"
+    ],
+    "contras": [
+      "No tritura ni pica",
+      "Recetas limitadas a lo que se hace en olla",
+      "Revisa el recubrimiento de la cubeta con el tiempo"
+    ],
     "para": "guisos y legumbres sin estar pendiente del fuego."
   },
   "B0DX6VWNH2": {
-    "resumen": ["La Cosori Twinfry es una freidora de aire de 10 litros con doble cesta y divisor: dos alimentos a la vez con programas distintos, o una cesta grande si quitas el divisor. Resuelve el mayor problema de las freidoras de una cesta, que es cocinar la guarnición y la proteína a la vez.", "Cosori es de las marcas con mejor fama en freidoras de aire, y el precio lo refleja."],
-    "pros": ["Doble cesta con sincronización de tiempos", "10 L: comida completa para 4-6 personas", "Divisor extraíble para piezas grandes"],
-    "contras": ["Muy voluminosa en encimera", "Consumo mayor que una freidora pequeña", "Precio de gama alta"],
+    "resumen": [
+      "La Cosori Twinfry es una freidora de aire de 10 litros con doble cesta y divisor: dos alimentos a la vez con programas distintos, o una cesta grande si quitas el divisor. Resuelve el mayor problema de las freidoras de una cesta, que es cocinar la guarnición y la proteína a la vez.",
+      "Cosori es de las marcas con mejor fama en freidoras de aire, y el precio lo refleja."
+    ],
+    "pros": [
+      "Doble cesta con sincronización de tiempos",
+      "10 L: comida completa para 4-6 personas",
+      "Divisor extraíble para piezas grandes"
+    ],
+    "contras": [
+      "Muy voluminosa en encimera",
+      "Consumo mayor que una freidora pequeña",
+      "Precio de gama alta"
+    ],
     "para": "familias que quieren cocinar la comida entera en la freidora."
   },
   "B0BPZSVH6S": {
-    "resumen": ["La Cecofry Fantastik 5500 es de las freidoras de aire más vendidas en España: 5,5 litros, sin complicaciones y con el servicio técnico de Cecotec. Cumple con lo básico a buen precio.", "Tamaño adecuado para dos o tres personas."],
-    "pros": ["Precio muy competitivo", "5,5 L para 2-3 personas", "Servicio técnico en España"],
-    "contras": ["Una sola cesta", "Recubrimiento de la cesta a cuidar (nada de estropajos)", "Panel sencillo"],
+    "resumen": [
+      "La Cecofry Fantastik 5500 es de las freidoras de aire más vendidas en España: 5,5 litros, sin complicaciones y con el servicio técnico de Cecotec. Cumple con lo básico a buen precio.",
+      "Tamaño adecuado para dos o tres personas."
+    ],
+    "pros": [
+      "Precio muy competitivo",
+      "5,5 L para 2-3 personas",
+      "Servicio técnico en España"
+    ],
+    "contras": [
+      "Una sola cesta",
+      "Recubrimiento de la cesta a cuidar (nada de estropajos)",
+      "Panel sencillo"
+    ],
     "para": "parejas o familias pequeñas que empiezan con la freidora de aire."
   },
   "B0CLRWNB7H": {
-    "resumen": ["La misma familia Cecofry, en 6,5 litros y con ventana para ver cómo se dora la comida sin abrir la cesta. Parece un detalle menor, pero evita perder calor y acertar mejor el punto.", "Un litro más que la 5500, útil para familias de cuatro."],
-    "pros": ["Ventana para vigilar sin abrir", "6,5 L de capacidad", "Precio ajustado"],
-    "contras": ["La ventana se ensucia con la grasa", "Una sola cesta", "Ocupa más encimera"],
+    "resumen": [
+      "La misma familia Cecofry, en 6,5 litros y con ventana para ver cómo se dora la comida sin abrir la cesta. Parece un detalle menor, pero evita perder calor y acertar mejor el punto.",
+      "Un litro más que la 5500, útil para familias de cuatro."
+    ],
+    "pros": [
+      "Ventana para vigilar sin abrir",
+      "6,5 L de capacidad",
+      "Precio ajustado"
+    ],
+    "contras": [
+      "La ventana se ensucia con la grasa",
+      "Una sola cesta",
+      "Ocupa más encimera"
+    ],
     "para": "familias de cuatro que quieren una freidora grande sin gastar mucho."
   },
   "B0D9S9Y16Y": {
-    "resumen": ["Philips fue la marca que popularizó la freidora de aire, y la serie 3000 de 6,2 litros es su propuesta más equilibrada: 16 funciones, panel táctil y el respaldo de una marca con recambios y app de recetas.", "Frente a Cecotec o Cosori pagas algo más; lo que ganas es una marca con larga trayectoria en este producto concreto."],
-    "pros": ["Marca pionera en freidoras de aire", "6,2 L para 3-4 personas", "16 modos de cocción"],
-    "contras": ["Más cara que alternativas de capacidad similar", "Una sola cesta", "Algunos modos son variaciones de temperatura y tiempo"],
+    "resumen": [
+      "Philips fue la marca que popularizó la freidora de aire, y la serie 3000 de 6,2 litros es su propuesta más equilibrada: 16 funciones, panel táctil y el respaldo de una marca con recambios y app de recetas.",
+      "Frente a Cecotec o Cosori pagas algo más; lo que ganas es una marca con larga trayectoria en este producto concreto."
+    ],
+    "pros": [
+      "Marca pionera en freidoras de aire",
+      "6,2 L para 3-4 personas",
+      "16 modos de cocción"
+    ],
+    "contras": [
+      "Más cara que alternativas de capacidad similar",
+      "Una sola cesta",
+      "Algunos modos son variaciones de temperatura y tiempo"
+    ],
     "para": "quien prefiere una marca consolidada."
   },
   "B0GWJVNGXV": {
-    "resumen": ["Batidora de vaso nutricional de 320 W con vaso de 0,6 L que sirve para beber. Es la batidora de los batidos del desayuno: tritura, te llevas el vaso y listo.", "320 W bastan para fruta y hielo en pequeñas cantidades, no para sopas calientes ni masas."],
-    "pros": ["Vaso para llevar", "Tritura hielo y fruta", "Buen volumen de opiniones"],
-    "contras": ["Capacidad de una ración", "No para líquidos calientes", "Potencia limitada con frutos secos"],
+    "resumen": [
+      "Batidora de vaso nutricional de 320 W con vaso de 0,6 L que sirve para beber. Es la batidora de los batidos del desayuno: tritura, te llevas el vaso y listo.",
+      "320 W bastan para fruta y hielo en pequeñas cantidades, no para sopas calientes ni masas."
+    ],
+    "pros": [
+      "Vaso para llevar",
+      "Tritura hielo y fruta",
+      "Buen volumen de opiniones"
+    ],
+    "contras": [
+      "Capacidad de una ración",
+      "No para líquidos calientes",
+      "Potencia limitada con frutos secos"
+    ],
     "para": "batidos individuales rápidos."
   },
   "B0HCR871LY": {
-    "resumen": ["Batidora de vaso de cristal de 1,5 litros y 500 W. El cristal no se raya ni coge olores como el plástico, y aguanta mejor líquidos calientes.", "Pocas opiniones todavía, pero el formato es el clásico que funciona."],
-    "pros": ["Vaso de cristal", "1,5 L para varias raciones", "Buen equilibrio de potencia"],
-    "contras": ["Vaso más pesado", "Pocas opiniones", "Marca poco conocida"],
+    "resumen": [
+      "Batidora de vaso de cristal de 1,5 litros y 500 W. El cristal no se raya ni coge olores como el plástico, y aguanta mejor líquidos calientes.",
+      "Pocas opiniones todavía, pero el formato es el clásico que funciona."
+    ],
+    "pros": [
+      "Vaso de cristal",
+      "1,5 L para varias raciones",
+      "Buen equilibrio de potencia"
+    ],
+    "contras": [
+      "Vaso más pesado",
+      "Pocas opiniones",
+      "Marca poco conocida"
+    ],
     "para": "batidos, gazpachos y cremas para la familia."
   },
   "B0G7J9HHB5": {
-    "resumen": ["La Power Black Titanium de Cecotec anuncia 1300 W máximos y 20000 rpm: es una batidora de vaso de potencia, para hielo, frutos secos y cremas espesas.", "Hace ruido, como todas las de este nivel."],
-    "pros": ["Mucha potencia para su precio", "Cuchillas de titanio", "Servicio técnico en España"],
-    "contras": ["Ruidosa", "La potencia máxima es de pico", "Vaso de plástico"],
+    "resumen": [
+      "La Power Black Titanium de Cecotec anuncia 1300 W máximos y 20000 rpm: es una batidora de vaso de potencia, para hielo, frutos secos y cremas espesas.",
+      "Hace ruido, como todas las de este nivel."
+    ],
+    "pros": [
+      "Mucha potencia para su precio",
+      "Cuchillas de titanio",
+      "Servicio técnico en España"
+    ],
+    "contras": [
+      "Ruidosa",
+      "La potencia máxima es de pico",
+      "Vaso de plástico"
+    ],
     "para": "quien tritura hielo y frutos secos a menudo."
   },
   "B0D9VYRDT2": {
-    "resumen": ["El Braun MultiQuick 5 es el minipimer de toda la vida con 1000 W. En muchas cocinas españolas es la herramienta más usada, y este modelo tiene potencia de sobra para cremas y purés.", "Sin accesorios extra: si necesitas picadora o varillas, busca la versión con pack."],
-    "pros": ["Marca de referencia en batidoras de mano", "1000 W de potencia", "Ligero y fácil de limpiar"],
-    "contras": ["Solo con vaso: sin picadora", "Pie de plástico o metal según versión (compruébalo)", "Salpica si no usas un vaso alto"],
+    "resumen": [
+      "El Braun MultiQuick 5 es el minipimer de toda la vida con 1000 W. En muchas cocinas españolas es la herramienta más usada, y este modelo tiene potencia de sobra para cremas y purés.",
+      "Sin accesorios extra: si necesitas picadora o varillas, busca la versión con pack."
+    ],
+    "pros": [
+      "Marca de referencia en batidoras de mano",
+      "1000 W de potencia",
+      "Ligero y fácil de limpiar"
+    ],
+    "contras": [
+      "Solo con vaso: sin picadora",
+      "Pie de plástico o metal según versión (compruébalo)",
+      "Salpica si no usas un vaso alto"
+    ],
     "para": "cremas, purés y salsas del día a día."
   },
   "B0FY3VCR2T": {
-    "resumen": ["Una cafetera espresso con 20 bares y bomba italiana ULKA: la bomba es un dato relevante, porque es la que montan muchas cafeteras de gama superior. 1,2 litros de depósito.", "Volumen de opiniones altísimo: para empezar con el espresso en casa, una compra segura."],
-    "pros": ["Bomba ULKA italiana", "Vaporizador para leche", "Depósito generoso"],
-    "contras": ["Necesita molienda adecuada para buen espresso", "Curva de aprendizaje con la leche", "Descalcificar a menudo con agua dura"],
+    "resumen": [
+      "Una cafetera espresso con 20 bares y bomba italiana ULKA: la bomba es un dato relevante, porque es la que montan muchas cafeteras de gama superior. 1,2 litros de depósito.",
+      "Volumen de opiniones altísimo: para empezar con el espresso en casa, una compra segura."
+    ],
+    "pros": [
+      "Bomba ULKA italiana",
+      "Vaporizador para leche",
+      "Depósito generoso"
+    ],
+    "contras": [
+      "Necesita molienda adecuada para buen espresso",
+      "Curva de aprendizaje con la leche",
+      "Descalcificar a menudo con agua dura"
+    ],
     "para": "quien quiere espresso de verdad sin gastar mucho."
   },
   "B0DGV3JRWY": {
-    "resumen": ["Cafetera de filtro de Tristar para 6 tazas: sencilla, con antigoteo y placa que mantiene el café caliente. El café de filtro vuelve con fuerza por su sabor suave y lo fácil que es.", "750 ml es suficiente para dos personas en el desayuno."],
-    "pros": ["Muy sencilla de usar", "Antigoteo y mantenimiento de calor", "Precio bajo"],
-    "contras": ["La placa caliente termina amargando el café si se deja mucho rato", "Capacidad justa para familias", "Sin temporizador"],
+    "resumen": [
+      "Cafetera de filtro de Tristar para 6 tazas: sencilla, con antigoteo y placa que mantiene el café caliente. El café de filtro vuelve con fuerza por su sabor suave y lo fácil que es.",
+      "750 ml es suficiente para dos personas en el desayuno."
+    ],
+    "pros": [
+      "Muy sencilla de usar",
+      "Antigoteo y mantenimiento de calor",
+      "Precio bajo"
+    ],
+    "contras": [
+      "La placa caliente termina amargando el café si se deja mucho rato",
+      "Capacidad justa para familias",
+      "Sin temporizador"
+    ],
     "para": "desayunos de filtro para dos."
   },
   "B01N1F30DQ": {
-    "resumen": ["La CM-1245 es la hermana mayor: 1,25 litros para más tazas. Mismo concepto sencillo, con antigoteo.", "Si en casa sois varios cafeteros, es la opción lógica."],
-    "pros": ["1,25 L de capacidad", "Antigoteo", "Económica"],
-    "contras": ["Placa caliente", "Sin programación", "Plástico básico"],
+    "resumen": [
+      "La CM-1245 es la hermana mayor: 1,25 litros para más tazas. Mismo concepto sencillo, con antigoteo.",
+      "Si en casa sois varios cafeteros, es la opción lógica."
+    ],
+    "pros": [
+      "1,25 L de capacidad",
+      "Antigoteo",
+      "Económica"
+    ],
+    "contras": [
+      "Placa caliente",
+      "Sin programación",
+      "Plástico básico"
+    ],
     "para": "familias cafeteras."
   },
   "B0FRG1BTFK": {
-    "resumen": ["Báscula de cocina con precisión de 0,1 g hasta 5 kg, recargable por USB y plataforma grande de acero. La precisión de décima es la que necesitas para repostería fina, levadura o café.", "Lo de recargable por USB evita las pilas de botón que siempre se acaban en el peor momento."],
-    "pros": ["Precisión de 0,1 g", "Recargable por USB", "Plataforma amplia"],
-    "contras": ["Límite de 5 kg", "Sensible a corrientes de aire en modo 0,1 g", "Marca genérica"],
+    "resumen": [
+      "Báscula de cocina con precisión de 0,1 g hasta 5 kg, recargable por USB y plataforma grande de acero. La precisión de décima es la que necesitas para repostería fina, levadura o café.",
+      "Lo de recargable por USB evita las pilas de botón que siempre se acaban en el peor momento."
+    ],
+    "pros": [
+      "Precisión de 0,1 g",
+      "Recargable por USB",
+      "Plataforma amplia"
+    ],
+    "contras": [
+      "Límite de 5 kg",
+      "Sensible a corrientes de aire en modo 0,1 g",
+      "Marca genérica"
+    ],
     "para": "repostería, café de especialidad y dietas precisas."
   },
   "B0DWK6DK9N": {
-    "resumen": ["Báscula ultrafina de acero inoxidable de 5 kg: se guarda de canto en cualquier cajón. Para el uso cotidiano, precisión de gramo sobrada.", "Económica y bonita."],
-    "pros": ["Ultrafina", "Acero fácil de limpiar", "Precio bajo"],
-    "contras": ["Pilas de botón", "Precisión de gramo, no de décima", "Plataforma pequeña"],
+    "resumen": [
+      "Báscula ultrafina de acero inoxidable de 5 kg: se guarda de canto en cualquier cajón. Para el uso cotidiano, precisión de gramo sobrada.",
+      "Económica y bonita."
+    ],
+    "pros": [
+      "Ultrafina",
+      "Acero fácil de limpiar",
+      "Precio bajo"
+    ],
+    "contras": [
+      "Pilas de botón",
+      "Precisión de gramo, no de décima",
+      "Plataforma pequeña"
+    ],
     "para": "cocina diaria."
   },
   "B08NDVTN5C": {
-    "resumen": ["La GRIFEMA GA2002 es una báscula básica de acero con pantalla LCD. Cumple con lo esencial a un precio mínimo.", "Si solo pesas ingredientes de vez en cuando, no necesitas más."],
-    "pros": ["Muy barata", "Acero inoxidable", "Función tara"],
-    "contras": ["Pantalla pequeña", "Pilas", "Pocas funciones"],
+    "resumen": [
+      "La GRIFEMA GA2002 es una báscula básica de acero con pantalla LCD. Cumple con lo esencial a un precio mínimo.",
+      "Si solo pesas ingredientes de vez en cuando, no necesitas más."
+    ],
+    "pros": [
+      "Muy barata",
+      "Acero inoxidable",
+      "Función tara"
+    ],
+    "contras": [
+      "Pantalla pequeña",
+      "Pilas",
+      "Pocas funciones"
+    ],
     "para": "uso ocasional."
   },
   "B0FBKT9DV9": {
-    "resumen": ["Cubertero extensible para cajón: se abre para ajustarse al ancho exacto. Esa extensión es lo que evita que el organizador baile dentro del cajón.", "Más compartimentos de los necesarios para cubiertos, ideal también para utensilios pequeños."],
-    "pros": ["Extensible al ancho del cajón", "Muchos compartimentos", "Buenas valoraciones"],
-    "contras": ["Plástico o bambú según versión", "Mide la profundidad del cajón", "Los huecos se ensucian"],
+    "resumen": [
+      "Cubertero extensible para cajón: se abre para ajustarse al ancho exacto. Esa extensión es lo que evita que el organizador baile dentro del cajón.",
+      "Más compartimentos de los necesarios para cubiertos, ideal también para utensilios pequeños."
+    ],
+    "pros": [
+      "Extensible al ancho del cajón",
+      "Muchos compartimentos",
+      "Buenas valoraciones"
+    ],
+    "contras": [
+      "Plástico o bambú según versión",
+      "Mide la profundidad del cajón",
+      "Los huecos se ensucian"
+    ],
     "para": "ordenar cajones de cocina."
   },
   "B07XYMZC9P": {
-    "resumen": ["Organizador de Amazon Basics para utensilios que puede ir en encimera o colgado en la pared. Esa flexibilidad es su punto fuerte en cocinas pequeñas.", "Sencillo y barato."],
-    "pros": ["Encimera o pared", "Barato", "Fácil de limpiar"],
-    "contras": ["Estética básica", "Capacidad limitada", "Plástico"],
+    "resumen": [
+      "Organizador de Amazon Basics para utensilios que puede ir en encimera o colgado en la pared. Esa flexibilidad es su punto fuerte en cocinas pequeñas.",
+      "Sencillo y barato."
+    ],
+    "pros": [
+      "Encimera o pared",
+      "Barato",
+      "Fácil de limpiar"
+    ],
+    "contras": [
+      "Estética básica",
+      "Capacidad limitada",
+      "Plástico"
+    ],
     "para": "cocinas pequeñas."
   },
   "B0DS4SDTZ7": {
-    "resumen": ["Estante de acero inoxidable para el fregadero: bayetas, esponjas y jabón, con escurrido. Mantiene la zona húmeda recogida y seca.", "Mide el espacio antes."],
-    "pros": ["Acero inoxidable", "Seca las esponjas", "Ordena la zona de fregado"],
-    "contras": ["Ocupa encimera", "Acumula cal", "Pocas opiniones"],
+    "resumen": [
+      "Estante de acero inoxidable para el fregadero: bayetas, esponjas y jabón, con escurrido. Mantiene la zona húmeda recogida y seca.",
+      "Mide el espacio antes."
+    ],
+    "pros": [
+      "Acero inoxidable",
+      "Seca las esponjas",
+      "Ordena la zona de fregado"
+    ],
+    "contras": [
+      "Ocupa encimera",
+      "Acumula cal",
+      "Pocas opiniones"
+    ],
     "para": "fregaderos con encimera libre al lado."
   },
   "B0FLY5634Z": {
-    "resumen": ["Juego de cinco piezas antiadherentes compatible con inducción: dos sartenes y cacerolas con tapa. Con un volumen de opiniones altísimo, es la forma más rápida de equipar una cocina desde cero.", "Los juegos baratos lo son por el grosor del material: trátalo con cariño (fuego medio, sin estropajo metálico)."],
-    "pros": ["Cinco piezas para empezar", "Apto para inducción", "Muy bien valorado"],
-    "contras": ["Grosor medio: menos retención de calor que piezas de gama alta", "El antiadherente dura menos con fuego fuerte", "Tamaños fijos"],
+    "resumen": [
+      "Juego de cinco piezas antiadherentes compatible con inducción: dos sartenes y cacerolas con tapa. Con un volumen de opiniones altísimo, es la forma más rápida de equipar una cocina desde cero.",
+      "Los juegos baratos lo son por el grosor del material: trátalo con cariño (fuego medio, sin estropajo metálico)."
+    ],
+    "pros": [
+      "Cinco piezas para empezar",
+      "Apto para inducción",
+      "Muy bien valorado"
+    ],
+    "contras": [
+      "Grosor medio: menos retención de calor que piezas de gama alta",
+      "El antiadherente dura menos con fuego fuerte",
+      "Tamaños fijos"
+    ],
     "para": "equipar una cocina nueva."
   },
   "B0FC59RC94": {
-    "resumen": ["Sartén de 26 cm de aluminio fundido sin PFOA. El aluminio fundido reparte mejor el calor que el estampado y aguanta sin deformarse.", "Tamaño de uso diario para dos."],
-    "pros": ["Aluminio fundido, buen reparto de calor", "Sin PFOA", "Tamaño muy versátil"],
-    "contras": ["Marca poco conocida", "Pocas opiniones", "Mango a revisar en horno"],
+    "resumen": [
+      "Sartén de 26 cm de aluminio fundido sin PFOA. El aluminio fundido reparte mejor el calor que el estampado y aguanta sin deformarse.",
+      "Tamaño de uso diario para dos."
+    ],
+    "pros": [
+      "Aluminio fundido, buen reparto de calor",
+      "Sin PFOA",
+      "Tamaño muy versátil"
+    ],
+    "contras": [
+      "Marca poco conocida",
+      "Pocas opiniones",
+      "Mango a revisar en horno"
+    ],
     "para": "sartén principal para una pareja."
   },
   "B008FX5WQG": {
-    "resumen": ["Magefesa, marca española de menaje, con su sartén Black de 28 cm y antiadherente bicapa reforzado. Un clásico de las cocinas españolas.", "Buena compra de reposición."],
-    "pros": ["Marca española con trayectoria", "28 cm para familias", "Precio ajustado"],
-    "contras": ["Bicapa: menos duradero que tricapa", "Revisa la compatibilidad con inducción", "Base menos gruesa"],
+    "resumen": [
+      "Magefesa, marca española de menaje, con su sartén Black de 28 cm y antiadherente bicapa reforzado. Un clásico de las cocinas españolas.",
+      "Buena compra de reposición."
+    ],
+    "pros": [
+      "Marca española con trayectoria",
+      "28 cm para familias",
+      "Precio ajustado"
+    ],
+    "contras": [
+      "Bicapa: menos duradero que tricapa",
+      "Revisa la compatibilidad con inducción",
+      "Base menos gruesa"
+    ],
     "para": "reponer la sartén grande de casa."
   },
   "B0CF2RV4MS": {
-    "resumen": ["Tostadora compacta de Bosch con rejilla para calentar bollería, descongelación y centrado automático del pan. La función lift permite sacar rebanadas pequeñas sin quemarte.", "Bosch da estabilidad y durabilidad de marca."],
-    "pros": ["Rejilla recalentadora integrada", "Centrado automático del pan", "Marca fiable"],
-    "contras": ["Ranuras cortas para pan de hogaza grande", "Precio mayor que genéricas", "Carcasa de plástico que se calienta"],
+    "resumen": [
+      "Tostadora compacta de Bosch con rejilla para calentar bollería, descongelación y centrado automático del pan. La función lift permite sacar rebanadas pequeñas sin quemarte.",
+      "Bosch da estabilidad y durabilidad de marca."
+    ],
+    "pros": [
+      "Rejilla recalentadora integrada",
+      "Centrado automático del pan",
+      "Marca fiable"
+    ],
+    "contras": [
+      "Ranuras cortas para pan de hogaza grande",
+      "Precio mayor que genéricas",
+      "Carcasa de plástico que se calienta"
+    ],
     "para": "desayunos diarios con pan de molde o bollería."
   },
   "B00GSLVV7G": {
-    "resumen": ["Sandwichera grill compacta de Tristar con compartimento para el cable. Planchas tipo grill, así que también sirve para paninis.", "Pequeña y fácil de guardar."],
-    "pros": ["Placas grill versátiles", "Guarda el cable", "Muy barata"],
-    "contras": ["Placas no extraíbles", "Tamaño para dos sándwiches", "Limpieza con paño"],
+    "resumen": [
+      "Sandwichera grill compacta de Tristar con compartimento para el cable. Planchas tipo grill, así que también sirve para paninis.",
+      "Pequeña y fácil de guardar."
+    ],
+    "pros": [
+      "Placas grill versátiles",
+      "Guarda el cable",
+      "Muy barata"
+    ],
+    "contras": [
+      "Placas no extraíbles",
+      "Tamaño para dos sándwiches",
+      "Limpieza con paño"
+    ],
     "para": "cenas rápidas y paninis."
   },
   "B084WXVLZC": {
-    "resumen": ["Sandwichera de 800 W de Aigostar, antiadherente y libre de BPA. Sencilla y rápida.", "Buena para desayunos y meriendas."],
-    "pros": ["800 W", "Antiadherente", "Económica"],
-    "contras": ["Placas fijas", "Solo sándwiches triangulares", "Carcasa que se calienta"],
+    "resumen": [
+      "Sandwichera de 800 W de Aigostar, antiadherente y libre de BPA. Sencilla y rápida.",
+      "Buena para desayunos y meriendas."
+    ],
+    "pros": [
+      "800 W",
+      "Antiadherente",
+      "Económica"
+    ],
+    "contras": [
+      "Placas fijas",
+      "Solo sándwiches triangulares",
+      "Carcasa que se calienta"
+    ],
     "para": "sándwiches rápidos."
   },
   "B0C64FPT1C": {
-    "resumen": ["Recipientes de acero aptos para microondas: una combinación rara, porque el acero normal no puede ir al micro. Revisa las instrucciones del fabricante para entender cómo se usan en microondas.", "El acero no coge olores ni manchas de tomate."],
-    "pros": ["Acero sin olores ni manchas", "Durable", "Buenas valoraciones"],
-    "contras": ["Revisa bien el uso en microondas según fabricante", "No se ve el contenido", "Más caros que plástico"],
+    "resumen": [
+      "Recipientes de acero aptos para microondas: una combinación rara, porque el acero normal no puede ir al micro. Revisa las instrucciones del fabricante para entender cómo se usan en microondas.",
+      "El acero no coge olores ni manchas de tomate."
+    ],
+    "pros": [
+      "Acero sin olores ni manchas",
+      "Durable",
+      "Buenas valoraciones"
+    ],
+    "contras": [
+      "Revisa bien el uso en microondas según fabricante",
+      "No se ve el contenido",
+      "Más caros que plástico"
+    ],
     "para": "llevar comida al trabajo."
   },
   "B00JLRHNKS": {
-    "resumen": ["Luminarc Pure Box en vidrio, 1,22 L. El vidrio va del congelador al horno (sin tapa) y no retiene olores.", "Marca de menaje con años en el mercado."],
-    "pros": ["Vidrio apto para horno y microondas", "No coge olores", "Tapa hermética"],
-    "contras": ["Pesado", "Se puede romper", "La tapa no va al horno"],
+    "resumen": [
+      "Luminarc Pure Box en vidrio, 1,22 L. El vidrio va del congelador al horno (sin tapa) y no retiene olores.",
+      "Marca de menaje con años en el mercado."
+    ],
+    "pros": [
+      "Vidrio apto para horno y microondas",
+      "No coge olores",
+      "Tapa hermética"
+    ],
+    "contras": [
+      "Pesado",
+      "Se puede romper",
+      "La tapa no va al horno"
+    ],
     "para": "guardar sobras y recalentar."
   },
   "B0H1C84BPV": {
-    "resumen": ["Tres recipientes de plástico sin BPA en tamaños mixtos. Ligeros y aptos para microondas y congelador.", "Buen pack de inicio."],
-    "pros": ["Tres tamaños", "Ligeros", "Sin BPA"],
-    "contras": ["El plástico mancha con tomate", "Menos duraderos que el vidrio", "Pocas piezas"],
+    "resumen": [
+      "Tres recipientes de plástico sin BPA en tamaños mixtos. Ligeros y aptos para microondas y congelador.",
+      "Buen pack de inicio."
+    ],
+    "pros": [
+      "Tres tamaños",
+      "Ligeros",
+      "Sin BPA"
+    ],
+    "contras": [
+      "El plástico mancha con tomate",
+      "Menos duraderos que el vidrio",
+      "Pocas piezas"
+    ],
     "para": "tuppers para el día a día."
   },
   "B008M5U1C2": {
-    "resumen": ["El Victorinox Fibrox de 20 cm es el cuchillo de cocinero que usan muchas escuelas de hostelería: no por bonito, sino porque corta muy bien, el mango no resbala con las manos mojadas y se reafila fácil.", "Su volumen de opiniones es de los más altos de toda la categoría."],
-    "pros": ["Filo excelente de fábrica", "Mango Fibrox antideslizante", "Fácil de reafilar"],
-    "contras": ["Estética funcional, sin lujo", "Hoja fina: no para huesos", "No apto para lavavajillas si quieres cuidar el filo"],
+    "resumen": [
+      "El Victorinox Fibrox de 20 cm es el cuchillo de cocinero que usan muchas escuelas de hostelería: no por bonito, sino porque corta muy bien, el mango no resbala con las manos mojadas y se reafila fácil.",
+      "Su volumen de opiniones es de los más altos de toda la categoría."
+    ],
+    "pros": [
+      "Filo excelente de fábrica",
+      "Mango Fibrox antideslizante",
+      "Fácil de reafilar"
+    ],
+    "contras": [
+      "Estética funcional, sin lujo",
+      "Hoja fina: no para huesos",
+      "No apto para lavavajillas si quieres cuidar el filo"
+    ],
     "para": "quien quiere un único buen cuchillo para todo."
   },
   "B00MDJVRG2": {
-    "resumen": ["Arcos es la marca española de cuchillos por excelencia, y este mondador de 105 mm de la serie Latina es el cuchillo pequeño para pelar y cortar verdura en mano.", "Precio bajo, calidad de fabricante serio."],
-    "pros": ["Marca española de referencia", "Tamaño ideal para pelar", "Muy barato"],
-    "contras": ["Solo para tareas pequeñas", "Mango de plástico sencillo", "Afilar periódicamente"],
+    "resumen": [
+      "Arcos es la marca española de cuchillos por excelencia, y este mondador de 105 mm de la serie Latina es el cuchillo pequeño para pelar y cortar verdura en mano.",
+      "Precio bajo, calidad de fabricante serio."
+    ],
+    "pros": [
+      "Marca española de referencia",
+      "Tamaño ideal para pelar",
+      "Muy barato"
+    ],
+    "contras": [
+      "Solo para tareas pequeñas",
+      "Mango de plástico sencillo",
+      "Afilar periódicamente"
+    ],
     "para": "pelar y cortar en mano."
   },
   "B07BCPNGDJ": {
-    "resumen": ["El Tefal Ice Force de chef de 20 cm usa acero templado en frío para mantener el filo. Un cuchillo principal asequible.", "Buena alternativa al Victorinox."],
-    "pros": ["Acero Ice Force", "Tamaño chef estándar", "Precio contenido"],
-    "contras": ["Mango menos ergonómico que el Fibrox", "Filo menos duradero que gamas altas", "Pocas opiniones visibles"],
+    "resumen": [
+      "El Tefal Ice Force de chef de 20 cm usa acero templado en frío para mantener el filo. Un cuchillo principal asequible.",
+      "Buena alternativa al Victorinox."
+    ],
+    "pros": [
+      "Acero Ice Force",
+      "Tamaño chef estándar",
+      "Precio contenido"
+    ],
+    "contras": [
+      "Mango menos ergonómico que el Fibrox",
+      "Filo menos duradero que gamas altas",
+      "Pocas opiniones visibles"
+    ],
     "para": "primer cuchillo de chef."
+  },
+  "B00J64GECY": {
+    "resumen": [
+      "Arcos es una cuchillería de Albacete con más de dos siglos de historia, y este es uno de sus cuchillos pequeños de 13 cm: el tamaño de la puntilla grande o cuchillo de verduras, el que más se usa para pelar, deshuesar y cortar piezas pequeñas.",
+      "No sustituye a un cuchillo de chef, lo complementa. Si estás montando tu cuchillería poco a poco, es de los primeros que conviene tener junto al de 20 cm."
+    ],
+    "pros": [
+      "Marca española con tradición y recambios fáciles de encontrar",
+      "Tamaño de 13 cm muy versátil para el día a día",
+      "Acero inoxidable que se reafila bien en casa"
+    ],
+    "contras": [
+      "Demasiado corto para picar en cantidad o cortar piezas grandes",
+      "El mango básico no es tan cómodo como el de gamas forjadas",
+      "Mejor lavarlo a mano para conservar el filo"
+    ],
+    "para": "Quien quiere un buen cuchillo de verduras o puntilla de marca fiable para empezar o completar su juego."
   }
 }
